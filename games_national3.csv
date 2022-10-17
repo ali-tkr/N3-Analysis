@@ -1,0 +1,2199 @@
+,Unnamed: 0,Equipe_Dom,Equipe_Ext,Score,Journee,Region
+0,0,Bayonne,Lège-Cap-Ferret,1 - 0,1,Nouvelle Aquitaine
+1,1,Bordeaux 2,Châtellerault,1 - 0,1,Nouvelle Aquitaine
+2,2,Bressuire,Chauvigny,1 - 1,1,Nouvelle Aquitaine
+3,3,Neuville,Tartas Sy,3 - 0,1,Nouvelle Aquitaine
+4,4,Cognac,Libourne,1 - 4,1,Nouvelle Aquitaine
+5,5,Poitiers,Stade Bordelais,2 - 3,1,Nouvelle Aquitaine
+6,6,Niort (2),Anglet,2 - 0,1,Nouvelle Aquitaine
+7,7,Bordeaux 2,Bressuire,2 - 1,2,Nouvelle Aquitaine
+8,8,Chauvigny,Bayonne,2 - 0,2,Nouvelle Aquitaine
+9,9,Anglet,Neuville,2 - 1,2,Nouvelle Aquitaine
+10,10,Châtellerault,Libourne,0 - 0,2,Nouvelle Aquitaine
+11,11,Stade Bordelais,Niort (2),1 - 0,2,Nouvelle Aquitaine
+12,12,Lège-Cap-Ferret,Poitiers,0 - 0,2,Nouvelle Aquitaine
+13,13,Tartas Sy,Cognac,6 - 1,2,Nouvelle Aquitaine
+14,14,Bayonne,Bordeaux 2,0 - 4,3,Nouvelle Aquitaine
+15,15,Bressuire,Châtellerault,5 - 1,3,Nouvelle Aquitaine
+16,16,Neuville,Stade Bordelais,3 - 3,3,Nouvelle Aquitaine
+17,17,Cognac,Anglet,1 - 1,3,Nouvelle Aquitaine
+18,18,Libourne,Tartas Sy,3 - 3,3,Nouvelle Aquitaine
+19,19,Poitiers,Chauvigny,3 - 2,3,Nouvelle Aquitaine
+20,20,Niort (2),Lège-Cap-Ferret,3 - 0,3,Nouvelle Aquitaine
+21,21,Bordeaux 2,Poitiers,3 - 0,4,Nouvelle Aquitaine
+22,22,Chauvigny,Niort (2),3 - 0,4,Nouvelle Aquitaine
+23,23,Anglet,Libourne,0 - 1,4,Nouvelle Aquitaine
+24,24,Bressuire,Bayonne,1 - 1,4,Nouvelle Aquitaine
+25,25,Châtellerault,Tartas Sy,1 - 1,4,Nouvelle Aquitaine
+26,26,Stade Bordelais,Cognac,1 - 0,4,Nouvelle Aquitaine
+27,27,Lège-Cap-Ferret,Neuville,1 - 2,4,Nouvelle Aquitaine
+28,28,Bayonne,Châtellerault,1 - 0,5,Nouvelle Aquitaine
+29,29,Neuville,Chauvigny,1 - 1,5,Nouvelle Aquitaine
+30,30,Cognac,Lège-Cap-Ferret,2 - 2,5,Nouvelle Aquitaine
+31,31,Libourne,Stade Bordelais,0 - 3,5,Nouvelle Aquitaine
+32,32,Poitiers,Bressuire,6 - 0,5,Nouvelle Aquitaine
+33,33,Niort (2),Bordeaux 2,0 - 1,5,Nouvelle Aquitaine
+34,34,Tartas Sy,Anglet,2 - 1,5,Nouvelle Aquitaine
+35,35,Bayonne,Poitiers,0 - 0,6,Nouvelle Aquitaine
+36,36,Bordeaux 2,Neuville,1 - 1,6,Nouvelle Aquitaine
+37,37,Bressuire,Niort (2),0 - 1,6,Nouvelle Aquitaine
+38,38,Chauvigny,Cognac,6 - 1,6,Nouvelle Aquitaine
+39,39,Châtellerault,Anglet,0 - 2,6,Nouvelle Aquitaine
+40,40,Stade Bordelais,Tartas Sy,2 - 0,6,Nouvelle Aquitaine
+41,41,Lège-Cap-Ferret,Libourne,2 - 2,6,Nouvelle Aquitaine
+42,42,Cognac,Bordeaux 2,1 - 0,7,Nouvelle Aquitaine
+43,43,Niort (2),Bayonne,3 - 0,7,Nouvelle Aquitaine
+44,44,Tartas Sy,Lège-Cap-Ferret,2 - 2,7,Nouvelle Aquitaine
+45,45,Chauvigny,Libourne,2 - 1,7,Nouvelle Aquitaine
+46,46,Neuville,Bressuire,1 - 1,7,Nouvelle Aquitaine
+47,47,Anglet,Stade Bordelais,2 - 0,7,Nouvelle Aquitaine
+48,48,Poitiers,Châtellerault,1 - 1,7,Nouvelle Aquitaine
+49,49,Libourne,Bordeaux 2,0 - 0,8,Nouvelle Aquitaine
+50,50,Bayonne,Neuville,4 - 1,8,Nouvelle Aquitaine
+51,51,Chauvigny,Tartas Sy,1 - 0,8,Nouvelle Aquitaine
+52,52,Bressuire,Cognac,1 - 2,8,Nouvelle Aquitaine
+53,53,Châtellerault,Stade Bordelais,1 - 3,8,Nouvelle Aquitaine
+54,54,Poitiers,Niort (2),3 - 0,8,Nouvelle Aquitaine
+55,55,Lège-Cap-Ferret,Anglet,1 - 2,8,Nouvelle Aquitaine
+56,56,Cognac,Bayonne,3 - 4,9,Nouvelle Aquitaine
+57,57,Niort (2),Châtellerault,2 - 3,9,Nouvelle Aquitaine
+58,58,Tartas Sy,Bordeaux 2,1 - 3,9,Nouvelle Aquitaine
+59,59,Libourne,Bressuire,1 - 0,9,Nouvelle Aquitaine
+60,60,Stade Bordelais,Lège-Cap-Ferret,2 - 1,9,Nouvelle Aquitaine
+61,61,Neuville,Poitiers,1 - 1,9,Nouvelle Aquitaine
+62,62,Anglet,Chauvigny,0 - 0,9,Nouvelle Aquitaine
+63,63,Bayonne,Libourne,1 - 2,10,Nouvelle Aquitaine
+64,64,Bordeaux 2,Anglet,3 - 0,10,Nouvelle Aquitaine
+65,65,Bressuire,Tartas Sy,3 - 1,10,Nouvelle Aquitaine
+66,66,Châtellerault,Lège-Cap-Ferret,1 - 2,10,Nouvelle Aquitaine
+67,67,Niort (2),Neuville,2 - 1,10,Nouvelle Aquitaine
+68,68,Poitiers,Cognac,4 - 1,10,Nouvelle Aquitaine
+69,69,Chauvigny,Stade Bordelais,0 - 2,10,Nouvelle Aquitaine
+70,70,Neuville,Châtellerault,0 - 2,11,Nouvelle Aquitaine
+71,71,Anglet,Bressuire,3 - 0,11,Nouvelle Aquitaine
+72,72,Cognac,Niort (2),1 - 0,11,Nouvelle Aquitaine
+73,73,Lège-Cap-Ferret,Chauvigny,0 - 0,11,Nouvelle Aquitaine
+74,74,Libourne,Poitiers,2 - 1,11,Nouvelle Aquitaine
+75,75,Tartas Sy,Bayonne,1 - 2,11,Nouvelle Aquitaine
+76,76,Stade Bordelais,Bordeaux 2,1 - 0,11,Nouvelle Aquitaine
+77,77,Neuville,Cognac,1 - 2,12,Nouvelle Aquitaine
+78,78,Bressuire,Stade Bordelais,1 - 1,12,Nouvelle Aquitaine
+79,79,Châtellerault,Chauvigny,1 - 0,12,Nouvelle Aquitaine
+80,80,Poitiers,Tartas Sy,6 - 0,12,Nouvelle Aquitaine
+81,81,Niort (2),Libourne,1 - 2,12,Nouvelle Aquitaine
+82,82,Bayonne,Anglet,1 - 1,12,Nouvelle Aquitaine
+83,83,Bordeaux 2,Lège-Cap-Ferret,0 - 1,12,Nouvelle Aquitaine
+84,84,Anglet,Poitiers,1 - 3,13,Nouvelle Aquitaine
+85,85,Stade Bordelais,Bayonne,2 - 0,13,Nouvelle Aquitaine
+86,86,Châtellerault,Cognac,1 - 1,13,Nouvelle Aquitaine
+87,87,Tartas Sy,Niort (2),4 - 2,13,Nouvelle Aquitaine
+88,88,Libourne,Neuville,1 - 2,13,Nouvelle Aquitaine
+89,89,Chauvigny,Bordeaux 2,1 - 0,13,Nouvelle Aquitaine
+90,90,Lège-Cap-Ferret,Bressuire,2 - 0,13,Nouvelle Aquitaine
+91,91,Bayonne,Chauvigny,1 - 0,14,Nouvelle Aquitaine
+92,92,Neuville,Anglet,3 - 0,14,Nouvelle Aquitaine
+93,93,Poitiers,Lège-Cap-Ferret,2 - 1,14,Nouvelle Aquitaine
+94,94,Bressuire,Bordeaux 2,1 - 3,14,Nouvelle Aquitaine
+95,95,Cognac,Tartas Sy,3 - 1,14,Nouvelle Aquitaine
+96,96,Niort (2),Stade Bordelais,1 - 3,14,Nouvelle Aquitaine
+97,97,Libourne,Châtellerault,1 - 2,14,Nouvelle Aquitaine
+98,98,Chauvigny,Poitiers,1 - 1,15,Nouvelle Aquitaine
+99,99,Anglet,Cognac,2 - 1,15,Nouvelle Aquitaine
+100,100,Châtellerault,Bressuire,4 - 2,15,Nouvelle Aquitaine
+101,101,Lège-Cap-Ferret,Niort (2),6 - 0,15,Nouvelle Aquitaine
+102,102,Stade Bordelais,Neuville,3 - 3,15,Nouvelle Aquitaine
+103,103,Tartas Sy,Libourne,3 - 2,15,Nouvelle Aquitaine
+104,104,Bordeaux 2,Bayonne,0 - 0,15,Nouvelle Aquitaine
+105,105,Bayonne,Bressuire,3 - 0,16,Nouvelle Aquitaine
+106,106,Neuville,Lège-Cap-Ferret,3 - 1,16,Nouvelle Aquitaine
+107,107,Poitiers,Bordeaux 2,5 - 2,16,Nouvelle Aquitaine
+108,108,Cognac,Stade Bordelais,0 - 2,16,Nouvelle Aquitaine
+109,109,Libourne,Anglet,0 - 2,16,Nouvelle Aquitaine
+110,110,Niort (2),Chauvigny,2 - 0,16,Nouvelle Aquitaine
+111,111,Tartas Sy,Châtellerault,2 - 2,16,Nouvelle Aquitaine
+112,112,Bordeaux 2,Niort (2),2 - 1,17,Nouvelle Aquitaine
+113,113,Chauvigny,Neuville,3 - 0,17,Nouvelle Aquitaine
+114,114,Anglet,Tartas Sy,5 - 2,17,Nouvelle Aquitaine
+115,115,Bressuire,Poitiers,0 - 3,17,Nouvelle Aquitaine
+116,116,Châtellerault,Bayonne,0 - 2,17,Nouvelle Aquitaine
+117,117,Lège-Cap-Ferret,Cognac,0 - 0,17,Nouvelle Aquitaine
+118,118,Stade Bordelais,Libourne,1 - 1,17,Nouvelle Aquitaine
+119,119,Poitiers,Bayonne,0 - 2,18,Nouvelle Aquitaine
+120,120,Neuville,Bordeaux 2,2 - 0,18,Nouvelle Aquitaine
+121,121,Anglet,Châtellerault,0 - 0,18,Nouvelle Aquitaine
+122,122,Cognac,Chauvigny,1 - 2,18,Nouvelle Aquitaine
+123,123,Libourne,Lège-Cap-Ferret,1 - 0,18,Nouvelle Aquitaine
+124,124,Niort (2),Bressuire,0 - 1,18,Nouvelle Aquitaine
+125,125,Tartas Sy,Stade Bordelais,1 - 2,18,Nouvelle Aquitaine
+126,126,Bayonne,Niort (2),3 - 2,19,Nouvelle Aquitaine
+127,127,Bordeaux 2,Cognac,4 - 1,19,Nouvelle Aquitaine
+128,128,Bressuire,Neuville,3 - 2,19,Nouvelle Aquitaine
+129,129,Châtellerault,Poitiers,0 - 1,19,Nouvelle Aquitaine
+130,130,Lège-Cap-Ferret,Tartas Sy,2 - 3,19,Nouvelle Aquitaine
+131,131,Libourne,Chauvigny,1 - 0,19,Nouvelle Aquitaine
+132,132,Stade Bordelais,Anglet,0 - 0,19,Nouvelle Aquitaine
+133,133,Bordeaux 2,Libourne,0 - 1,20,Nouvelle Aquitaine
+134,134,Neuville,Bayonne,4 - 1,20,Nouvelle Aquitaine
+135,135,Anglet,Lège-Cap-Ferret,2 - 1,20,Nouvelle Aquitaine
+136,136,Cognac,Bressuire,0 - 2,20,Nouvelle Aquitaine
+137,137,Stade Bordelais,Châtellerault,4 - 0,20,Nouvelle Aquitaine
+138,138,Niort (2),Poitiers,2 - 2,20,Nouvelle Aquitaine
+139,139,Tartas Sy,Chauvigny,1 - 2,20,Nouvelle Aquitaine
+140,140,Bayonne,Cognac,4 - 1,21,Nouvelle Aquitaine
+141,141,Bordeaux 2,Tartas Sy,2 - 1,21,Nouvelle Aquitaine
+142,142,Chauvigny,Anglet,1 - 2,21,Nouvelle Aquitaine
+143,143,Poitiers,Neuville,0 - 1,21,Nouvelle Aquitaine
+144,144,Bressuire,Libourne,2 - 2,21,Nouvelle Aquitaine
+145,145,Châtellerault,Niort (2),1 - 1,21,Nouvelle Aquitaine
+146,146,Lège-Cap-Ferret,Stade Bordelais,3 - 1,21,Nouvelle Aquitaine
+147,147,Tartas Sy,Bressuire,2 - 2,22,Nouvelle Aquitaine
+148,148,Libourne,Bayonne,2 - 5,22,Nouvelle Aquitaine
+149,149,Neuville,Niort (2),0 - 2,22,Nouvelle Aquitaine
+150,150,Anglet,Bordeaux 2,4 - 1,22,Nouvelle Aquitaine
+151,151,Cognac,Poitiers,4 - 4,22,Nouvelle Aquitaine
+152,152,Lège-Cap-Ferret,Châtellerault,3 - 1,22,Nouvelle Aquitaine
+153,153,Stade Bordelais,Chauvigny,5 - 2,22,Nouvelle Aquitaine
+154,154,Bayonne,Tartas Sy,3 - 1,23,Nouvelle Aquitaine
+155,155,Bordeaux 2,Stade Bordelais,1 - 2,23,Nouvelle Aquitaine
+156,156,Chauvigny,Lège-Cap-Ferret,2 - 0,23,Nouvelle Aquitaine
+157,157,Poitiers,Libourne,1 - 1,23,Nouvelle Aquitaine
+158,158,Bressuire,Anglet,1 - 1,23,Nouvelle Aquitaine
+159,159,Châtellerault,Neuville,0 - 0,23,Nouvelle Aquitaine
+160,160,Niort (2),Cognac,1 - 0,23,Nouvelle Aquitaine
+161,161,Chauvigny,Châtellerault,1 - 0,24,Nouvelle Aquitaine
+162,162,Anglet,Bayonne,0 - 1,24,Nouvelle Aquitaine
+163,163,Cognac,Neuville,0 - 5,24,Nouvelle Aquitaine
+164,164,Lège-Cap-Ferret,Bordeaux 2,2 - 1,24,Nouvelle Aquitaine
+165,165,Libourne,Niort (2),0 - 3,24,Nouvelle Aquitaine
+166,166,Stade Bordelais,Bressuire,4 - 3,24,Nouvelle Aquitaine
+167,167,Tartas Sy,Poitiers,2 - 3,24,Nouvelle Aquitaine
+168,168,Bayonne,Stade Bordelais,3 - 4,25,Nouvelle Aquitaine
+169,169,Bordeaux 2,Chauvigny,4 - 1,25,Nouvelle Aquitaine
+170,170,Bressuire,Lège-Cap-Ferret,0 - 3,25,Nouvelle Aquitaine
+171,171,Cognac,Châtellerault,1 - 3,25,Nouvelle Aquitaine
+172,172,Neuville,Libourne,1 - 4,25,Nouvelle Aquitaine
+173,173,Niort (2),Tartas Sy,3 - 2,25,Nouvelle Aquitaine
+174,174,Poitiers,Anglet,0 - 1,25,Nouvelle Aquitaine
+175,175,Anglet,Niort (2),3 - 1,26,Nouvelle Aquitaine
+176,176,Châtellerault,Bordeaux 2,2 - 3,26,Nouvelle Aquitaine
+177,177,Chauvigny,Bressuire,2 - 3,26,Nouvelle Aquitaine
+178,178,Lège-Cap-Ferret,Bayonne,2 - 2,26,Nouvelle Aquitaine
+179,179,Libourne,Cognac,2 - 4,26,Nouvelle Aquitaine
+180,180,Stade Bordelais,Poitiers,2 - 0,26,Nouvelle Aquitaine
+181,181,Tartas Sy,Neuville,2 - 2,26,Nouvelle Aquitaine
+0,0,Changé,Vertou,2 - 2,1,Pays de la Loire
+1,1,Pouzauges Réaumur,Le Poiré-sur-Vie,1 - 0,1,Pays de la Loire
+2,2,St-Philbert Gd Lieu,Sablé,1 - 2,1,Pays de la Loire
+3,3,La Roche-sur-Yon,Challans,3 - 1,1,Pays de la Loire
+4,4,Le Mans 2,Laval 2,1 - 1,1,Pays de la Loire
+5,5,Fontenay,Chataigneraie,1 - 0,1,Pays de la Loire
+6,6,Ent. Sautron/Orv.,Saumur,1 - 2,1,Pays de la Loire
+7,7,Challans,Fontenay,2 - 0,2,Pays de la Loire
+8,8,Changé,Le Mans 2,0 - 2,2,Pays de la Loire
+9,9,Chataigneraie,Pouzauges Réaumur,1 - 2,2,Pays de la Loire
+10,10,Le Poiré-sur-Vie,St-Philbert Gd Lieu,6 - 0,2,Pays de la Loire
+11,11,Sablé,Laval 2,0 - 1,2,Pays de la Loire
+12,12,Vertou,Ent. Sautron/Orv.,0 - 1,2,Pays de la Loire
+13,13,Saumur,La Roche-sur-Yon,1 - 1,2,Pays de la Loire
+14,14,La Roche-sur-Yon,Vertou,4 - 2,3,Pays de la Loire
+15,15,Laval 2,Le Poiré-sur-Vie,3 - 2,3,Pays de la Loire
+16,16,Le Mans 2,Sablé,1 - 0,3,Pays de la Loire
+17,17,Pouzauges Réaumur,Challans,0 - 2,3,Pays de la Loire
+18,18,St-Philbert Gd Lieu,Chataigneraie,1 - 2,3,Pays de la Loire
+19,19,Fontenay,Saumur,1 - 3,3,Pays de la Loire
+20,20,Ent. Sautron/Orv.,Changé,0 - 2,3,Pays de la Loire
+21,21,Challans,St-Philbert Gd Lieu,2 - 2,4,Pays de la Loire
+22,22,Changé,La Roche-sur-Yon,0 - 3,4,Pays de la Loire
+23,23,Chataigneraie,Laval 2,2 - 3,4,Pays de la Loire
+24,24,Le Poiré-sur-Vie,Sablé,1 - 1,4,Pays de la Loire
+25,25,Saumur,Pouzauges Réaumur,2 - 1,4,Pays de la Loire
+26,26,Vertou,Fontenay,1 - 1,4,Pays de la Loire
+27,27,Ent. Sautron/Orv.,Le Mans 2,0 - 3,4,Pays de la Loire
+28,28,St-Philbert Gd Lieu,Saumur,1 - 1,5,Pays de la Loire
+29,29,La Roche-sur-Yon,Ent. Sautron/Orv.,6 - 1,5,Pays de la Loire
+30,30,Laval 2,Challans,2 - 2,5,Pays de la Loire
+31,31,Le Mans 2,Le Poiré-sur-Vie,2 - 1,5,Pays de la Loire
+32,32,Pouzauges Réaumur,Vertou,4 - 1,5,Pays de la Loire
+33,33,Sablé,Chataigneraie,2 - 0,5,Pays de la Loire
+34,34,Fontenay,Changé,1 - 2,5,Pays de la Loire
+35,35,Challans,Sablé,4 - 0,6,Pays de la Loire
+36,36,Changé,Pouzauges Réaumur,0 - 2,6,Pays de la Loire
+37,37,Chataigneraie,Le Poiré-sur-Vie,0 - 3,6,Pays de la Loire
+38,38,La Roche-sur-Yon,Le Mans 2,3 - 0,6,Pays de la Loire
+39,39,Saumur,Laval 2,3 - 1,6,Pays de la Loire
+40,40,Vertou,St-Philbert Gd Lieu,2 - 0,6,Pays de la Loire
+41,41,Ent. Sautron/Orv.,Fontenay,1 - 0,6,Pays de la Loire
+42,42,St-Philbert Gd Lieu,Changé,3 - 2,7,Pays de la Loire
+43,43,Laval 2,Vertou,2 - 0,7,Pays de la Loire
+44,44,Le Mans 2,Chataigneraie,4 - 0,7,Pays de la Loire
+45,45,Le Poiré-sur-Vie,Challans,3 - 0,7,Pays de la Loire
+46,46,Pouzauges Réaumur,Ent. Sautron/Orv.,5 - 0,7,Pays de la Loire
+47,47,Sablé,Saumur,0 - 2,7,Pays de la Loire
+48,48,Fontenay,La Roche-sur-Yon,0 - 4,7,Pays de la Loire
+49,49,Challans,Chataigneraie,4 - 1,8,Pays de la Loire
+50,50,La Roche-sur-Yon,Pouzauges Réaumur,1 - 1,8,Pays de la Loire
+51,51,Saumur,Le Poiré-sur-Vie,1 - 1,8,Pays de la Loire
+52,52,Vertou,Sablé,0 - 0,8,Pays de la Loire
+53,53,Changé,Laval 2,0 - 1,8,Pays de la Loire
+54,54,Fontenay,Le Mans 2,2 - 1,8,Pays de la Loire
+55,55,Ent. Sautron/Orv.,St-Philbert Gd Lieu,0 - 2,8,Pays de la Loire
+56,56,Chataigneraie,Saumur,1 - 4,9,Pays de la Loire
+57,57,Laval 2,Ent. Sautron/Orv.,3 - 1,9,Pays de la Loire
+58,58,Le Mans 2,Challans,1 - 2,9,Pays de la Loire
+59,59,Le Poiré-sur-Vie,Vertou,0 - 0,9,Pays de la Loire
+60,60,Pouzauges Réaumur,Fontenay,2 - 2,9,Pays de la Loire
+61,61,Sablé,Changé,4 - 1,9,Pays de la Loire
+62,62,St-Philbert Gd Lieu,La Roche-sur-Yon,0 - 3,9,Pays de la Loire
+63,63,Changé,Le Poiré-sur-Vie,1 - 0,10,Pays de la Loire
+64,64,La Roche-sur-Yon,Laval 2,1 - 0,10,Pays de la Loire
+65,65,Pouzauges Réaumur,Le Mans 2,2 - 2,10,Pays de la Loire
+66,66,Saumur,Challans,3 - 1,10,Pays de la Loire
+67,67,Vertou,Chataigneraie,4 - 1,10,Pays de la Loire
+68,68,Fontenay,St-Philbert Gd Lieu,1 - 1,10,Pays de la Loire
+69,69,Ent. Sautron/Orv.,Sablé,1 - 2,10,Pays de la Loire
+70,70,Challans,Vertou,3 - 4,11,Pays de la Loire
+71,71,Chataigneraie,Changé,0 - 1,11,Pays de la Loire
+72,72,Laval 2,Fontenay,2 - 0,11,Pays de la Loire
+73,73,Le Mans 2,Saumur,0 - 2,11,Pays de la Loire
+74,74,Le Poiré-sur-Vie,Ent. Sautron/Orv.,2 - 0,11,Pays de la Loire
+75,75,Sablé,La Roche-sur-Yon,3 - 4,11,Pays de la Loire
+76,76,St-Philbert Gd Lieu,Pouzauges Réaumur,4 - 0,11,Pays de la Loire
+77,77,Changé,Challans,2 - 2,12,Pays de la Loire
+78,78,Pouzauges Réaumur,Laval 2,2 - 3,12,Pays de la Loire
+79,79,Vertou,Saumur,3 - 1,12,Pays de la Loire
+80,80,Fontenay,Sablé,0 - 0,12,Pays de la Loire
+81,81,Ent. Sautron/Orv.,Chataigneraie,2 - 4,12,Pays de la Loire
+82,82,St-Philbert Gd Lieu,Le Mans 2,2 - 0,12,Pays de la Loire
+83,83,La Roche-sur-Yon,Le Poiré-sur-Vie,4 - 1,12,Pays de la Loire
+84,84,Challans,Ent. Sautron/Orv.,3 - 0,13,Pays de la Loire
+85,85,Laval 2,St-Philbert Gd Lieu,0 - 0,13,Pays de la Loire
+86,86,Le Poiré-sur-Vie,Fontenay,3 - 0,13,Pays de la Loire
+87,87,Sablé,Pouzauges Réaumur,2 - 1,13,Pays de la Loire
+88,88,Saumur,Changé,3 - 1,13,Pays de la Loire
+89,89,Vertou,Le Mans 2,0 - 2,13,Pays de la Loire
+90,90,Chataigneraie,La Roche-sur-Yon,0 - 3,13,Pays de la Loire
+91,91,Laval 2,Le Mans 2,3 - 4,14,Pays de la Loire
+92,92,Challans,La Roche-sur-Yon,1 - 1,14,Pays de la Loire
+93,93,Chataigneraie,Fontenay,0 - 1,14,Pays de la Loire
+94,94,Le Poiré-sur-Vie,Pouzauges Réaumur,2 - 1,14,Pays de la Loire
+95,95,Sablé,St-Philbert Gd Lieu,1 - 1,14,Pays de la Loire
+96,96,Saumur,Ent. Sautron/Orv.,3 - 0,14,Pays de la Loire
+97,97,Vertou,Changé,7 - 0,14,Pays de la Loire
+98,98,La Roche-sur-Yon,Saumur,0 - 0,15,Pays de la Loire
+99,99,Laval 2,Sablé,2 - 0,15,Pays de la Loire
+100,100,Le Mans 2,Changé,0 - 0,15,Pays de la Loire
+101,101,Pouzauges Réaumur,Chataigneraie,0 - 0,15,Pays de la Loire
+102,102,Fontenay,Challans,3 - 1,15,Pays de la Loire
+103,103,Ent. Sautron/Orv.,Vertou,0 - 1,15,Pays de la Loire
+104,104,St-Philbert Gd Lieu,Le Poiré-sur-Vie,1 - 1,15,Pays de la Loire
+105,105,Challans,Pouzauges Réaumur,0 - 4,16,Pays de la Loire
+106,106,Changé,Ent. Sautron/Orv.,3 - 1,16,Pays de la Loire
+107,107,Le Poiré-sur-Vie,Laval 2,0 - 0,16,Pays de la Loire
+108,108,Sablé,Le Mans 2,3 - 1,16,Pays de la Loire
+109,109,Saumur,Fontenay,2 - 0,16,Pays de la Loire
+110,110,Vertou,La Roche-sur-Yon,4 - 3,16,Pays de la Loire
+111,111,Chataigneraie,St-Philbert Gd Lieu,3 - 1,16,Pays de la Loire
+112,112,St-Philbert Gd Lieu,Challans,3 - 0,17,Pays de la Loire
+113,113,La Roche-sur-Yon,Changé,1 - 0,17,Pays de la Loire
+114,114,Laval 2,Chataigneraie,1 - 1,17,Pays de la Loire
+115,115,Le Mans 2,Ent. Sautron/Orv.,2 - 0,17,Pays de la Loire
+116,116,Pouzauges Réaumur,Saumur,3 - 2,17,Pays de la Loire
+117,117,Sablé,Le Poiré-sur-Vie,3 - 1,17,Pays de la Loire
+118,118,Fontenay,Vertou,1 - 1,17,Pays de la Loire
+119,119,Challans,Laval 2,1 - 0,18,Pays de la Loire
+120,120,Changé,Fontenay,0 - 0,18,Pays de la Loire
+121,121,Chataigneraie,Sablé,2 - 1,18,Pays de la Loire
+122,122,Le Poiré-sur-Vie,Le Mans 2,0 - 2,18,Pays de la Loire
+123,123,Saumur,St-Philbert Gd Lieu,4 - 2,18,Pays de la Loire
+124,124,Vertou,Pouzauges Réaumur,1 - 0,18,Pays de la Loire
+125,125,Ent. Sautron/Orv.,La Roche-sur-Yon,0 - 0,18,Pays de la Loire
+126,126,Laval 2,Saumur,2 - 2,19,Pays de la Loire
+127,127,Le Mans 2,La Roche-sur-Yon,3 - 0,19,Pays de la Loire
+128,128,Le Poiré-sur-Vie,Chataigneraie,1 - 2,19,Pays de la Loire
+129,129,Pouzauges Réaumur,Changé,0 - 1,19,Pays de la Loire
+130,130,Sablé,Challans,1 - 1,19,Pays de la Loire
+131,131,Fontenay,Ent. Sautron/Orv.,4 - 0,19,Pays de la Loire
+132,132,St-Philbert Gd Lieu,Vertou,0 - 2,19,Pays de la Loire
+133,133,Challans,Le Poiré-sur-Vie,0 - 1,20,Pays de la Loire
+134,134,Changé,St-Philbert Gd Lieu,1 - 1,20,Pays de la Loire
+135,135,Chataigneraie,Le Mans 2,3 - 1,20,Pays de la Loire
+136,136,La Roche-sur-Yon,Fontenay,2 - 1,20,Pays de la Loire
+137,137,Saumur,Sablé,1 - 1,20,Pays de la Loire
+138,138,Vertou,Laval 2,0 - 1,20,Pays de la Loire
+139,139,Ent. Sautron/Orv.,Pouzauges Réaumur,2 - 4,20,Pays de la Loire
+140,140,Chataigneraie,Challans,2 - 0,21,Pays de la Loire
+141,141,Laval 2,Changé,1 - 1,21,Pays de la Loire
+142,142,Le Mans 2,Fontenay,3 - 2,21,Pays de la Loire
+143,143,Le Poiré-sur-Vie,Saumur,0 - 2,21,Pays de la Loire
+144,144,Pouzauges Réaumur,La Roche-sur-Yon,2 - 1,21,Pays de la Loire
+145,145,Sablé,Vertou,4 - 1,21,Pays de la Loire
+146,146,St-Philbert Gd Lieu,Ent. Sautron/Orv.,1 - 0,21,Pays de la Loire
+147,147,La Roche-sur-Yon,St-Philbert Gd Lieu,8 - 1,22,Pays de la Loire
+148,148,Challans,Le Mans 2,2 - 0,22,Pays de la Loire
+149,149,Changé,Sablé,1 - 1,22,Pays de la Loire
+150,150,Saumur,Chataigneraie,3 - 2,22,Pays de la Loire
+151,151,Vertou,Le Poiré-sur-Vie,0 - 3,22,Pays de la Loire
+152,152,Fontenay,Pouzauges Réaumur,3 - 0,22,Pays de la Loire
+153,153,Ent. Sautron/Orv.,Laval 2,0 - 1,22,Pays de la Loire
+154,154,St-Philbert Gd Lieu,Fontenay,0 - 3,23,Pays de la Loire
+155,155,Challans,Saumur,0 - 2,23,Pays de la Loire
+156,156,Chataigneraie,Vertou,0 - 3,23,Pays de la Loire
+157,157,Laval 2,La Roche-sur-Yon,1 - 0,23,Pays de la Loire
+158,158,Le Mans 2,Pouzauges Réaumur,4 - 2,23,Pays de la Loire
+159,159,Le Poiré-sur-Vie,Changé,2 - 4,23,Pays de la Loire
+160,160,Sablé,Ent. Sautron/Orv.,1 - 3,23,Pays de la Loire
+161,161,La Roche-sur-Yon,Sablé,2 - 1,24,Pays de la Loire
+162,162,Changé,Chataigneraie,3 - 0,24,Pays de la Loire
+163,163,Pouzauges Réaumur,St-Philbert Gd Lieu,1 - 3,24,Pays de la Loire
+164,164,Saumur,Le Mans 2,2 - 0,24,Pays de la Loire
+165,165,Vertou,Challans,1 - 5,24,Pays de la Loire
+166,166,Fontenay,Laval 2,2 - 1,24,Pays de la Loire
+167,167,Ent. Sautron/Orv.,Le Poiré-sur-Vie,0 - 1,24,Pays de la Loire
+168,168,Le Mans 2,St-Philbert Gd Lieu,4 - 0,25,Pays de la Loire
+169,169,Challans,Changé,4 - 3,25,Pays de la Loire
+170,170,Chataigneraie,Ent. Sautron/Orv.,3 - 0,25,Pays de la Loire
+171,171,Laval 2,Pouzauges Réaumur,0 - 1,25,Pays de la Loire
+172,172,Le Poiré-sur-Vie,La Roche-sur-Yon,2 - 2,25,Pays de la Loire
+173,173,Sablé,Fontenay,1 - 3,25,Pays de la Loire
+174,174,Saumur,Vertou,1 - 2,25,Pays de la Loire
+175,175,Changé,Saumur,1 - 2,26,Pays de la Loire
+176,176,Ent. Sautron/Orv.,Challans,1 - 4,26,Pays de la Loire
+177,177,Fontenay,Le Poiré-sur-Vie,1 - 2,26,Pays de la Loire
+178,178,La Roche-sur-Yon,Chataigneraie,4 - 3,26,Pays de la Loire
+179,179,Le Mans 2,Vertou,0 - 2,26,Pays de la Loire
+180,180,Pouzauges Réaumur,Sablé,2 - 1,26,Pays de la Loire
+181,181,St-Philbert Gd Lieu,Laval 2,2 - 0,26,Pays de la Loire
+0,0,Châteauroux 2,Saran,0 - 1,1,Centre
+1,1,Montargis,Bourges 2,1 - 1,1,Centre
+2,2,Vierzon,Ouest Tourangeau,2 - 2,1,Centre
+3,3,Avoine/Chinon,Montlouis,3 - 1,1,Centre
+4,4,Déols,Orléans 2,2 - 3,1,Centre
+5,5,Chartres 2,St-Jean-le-Blanc,0 - 1,1,Centre
+6,6,Chateauneuf s/L.,Amilly,0 - 0,1,Centre
+7,7,St-Jean-le-Blanc,Vierzon,1 - 2,2,Centre
+8,8,Montargis,Chateauneuf s/L.,0 - 3,2,Centre
+9,9,Orléans 2,Chartres 2,2 - 3,2,Centre
+10,10,Ouest Tourangeau,Amilly,0 - 2,2,Centre
+11,11,Montlouis,Châteauroux 2,2 - 2,2,Centre
+12,12,Bourges 2,Avoine/Chinon,0 - 2,2,Centre
+13,13,Saran,Déols,3 - 0,2,Centre
+14,14,Vierzon,Orléans 2,1 - 3,3,Centre
+15,15,Avoine/Chinon,Montargis,2 - 1,3,Centre
+16,16,Déols,Montlouis,1 - 1,3,Centre
+17,17,Amilly,St-Jean-le-Blanc,1 - 3,3,Centre
+18,18,Chartres 2,Saran,0 - 0,3,Centre
+19,19,Chateauneuf s/L.,Ouest Tourangeau,0 - 2,3,Centre
+20,20,Châteauroux 2,Bourges 2,3 - 0,3,Centre
+21,21,Montargis,Châteauroux 2,3 - 1,4,Centre
+22,22,Orléans 2,Amilly,6 - 0,4,Centre
+23,23,Avoine/Chinon,Chateauneuf s/L.,1 - 1,4,Centre
+24,24,Montlouis,Chartres 2,2 - 1,4,Centre
+25,25,Bourges 2,Déols,2 - 1,4,Centre
+26,26,Saran,Vierzon,0 - 3,4,Centre
+27,27,St-Jean-le-Blanc,Ouest Tourangeau,4 - 2,4,Centre
+28,28,Ouest Tourangeau,Orléans 2,2 - 1,5,Centre
+29,29,Vierzon,Montlouis,2 - 2,5,Centre
+30,30,Déols,Montargis,2 - 2,5,Centre
+31,31,Amilly,Saran,3 - 0,5,Centre
+32,32,Chartres 2,Bourges 2,0 - 4,5,Centre
+33,33,Chateauneuf s/L.,St-Jean-le-Blanc,1 - 0,5,Centre
+34,34,Châteauroux 2,Avoine/Chinon,1 - 1,5,Centre
+35,35,Montargis,Chartres 2,1 - 2,6,Centre
+36,36,Orléans 2,St-Jean-le-Blanc,2 - 1,6,Centre
+37,37,Avoine/Chinon,Déols,1 - 0,6,Centre
+38,38,Montlouis,Amilly,3 - 1,6,Centre
+39,39,Bourges 2,Vierzon,1 - 3,6,Centre
+40,40,Châteauroux 2,Chateauneuf s/L.,2 - 1,6,Centre
+41,41,Saran,Ouest Tourangeau,1 - 3,6,Centre
+42,42,Ouest Tourangeau,Montlouis,5 - 2,7,Centre
+43,43,St-Jean-le-Blanc,Saran,1 - 2,7,Centre
+44,44,Vierzon,Montargis,2 - 1,7,Centre
+45,45,Déols,Châteauroux 2,0 - 2,7,Centre
+46,46,Amilly,Bourges 2,0 - 4,7,Centre
+47,47,Chartres 2,Avoine/Chinon,3 - 0,7,Centre
+48,48,Chateauneuf s/L.,Orléans 2,0 - 0,7,Centre
+49,49,Montargis,Amilly,1 - 1,8,Centre
+50,50,Avoine/Chinon,Vierzon,0 - 1,8,Centre
+51,51,Déols,Chateauneuf s/L.,1 - 0,8,Centre
+52,52,Montlouis,St-Jean-le-Blanc,2 - 1,8,Centre
+53,53,Bourges 2,Ouest Tourangeau,4 - 1,8,Centre
+54,54,Châteauroux 2,Chartres 2,2 - 3,8,Centre
+55,55,Saran,Orléans 2,2 - 1,8,Centre
+56,56,Ouest Tourangeau,Montargis,4 - 1,9,Centre
+57,57,Orléans 2,Montlouis,3 - 0,9,Centre
+58,58,Vierzon,Châteauroux 2,3 - 0,9,Centre
+59,59,Chartres 2,Déols,2 - 1,9,Centre
+60,60,Chateauneuf s/L.,Saran,0 - 1,9,Centre
+61,61,St-Jean-le-Blanc,Bourges 2,1 - 2,9,Centre
+62,62,Amilly,Avoine/Chinon,0 - 1,9,Centre
+63,63,Montargis,St-Jean-le-Blanc,0 - 2,10,Centre
+64,64,Avoine/Chinon,Ouest Tourangeau,2 - 2,10,Centre
+65,65,Déols,Vierzon,0 - 0,10,Centre
+66,66,Montlouis,Saran,2 - 7,10,Centre
+67,67,Bourges 2,Orléans 2,1 - 2,10,Centre
+68,68,Chartres 2,Chateauneuf s/L.,5 - 1,10,Centre
+69,69,Châteauroux 2,Amilly,2 - 1,10,Centre
+70,70,St-Jean-le-Blanc,Avoine/Chinon,1 - 1,11,Centre
+71,71,Ouest Tourangeau,Châteauroux 2,3 - 3,11,Centre
+72,72,Orléans 2,Montargis,0 - 2,11,Centre
+73,73,Vierzon,Chartres 2,5 - 1,11,Centre
+74,74,Amilly,Déols,0 - 1,11,Centre
+75,75,Chateauneuf s/L.,Montlouis,2 - 1,11,Centre
+76,76,Saran,Bourges 2,0 - 3,11,Centre
+77,77,Montargis,Saran,2 - 1,12,Centre
+78,78,Vierzon,Chateauneuf s/L.,2 - 1,12,Centre
+79,79,Avoine/Chinon,Orléans 2,1 - 1,12,Centre
+80,80,Déols,Ouest Tourangeau,3 - 3,12,Centre
+81,81,Bourges 2,Montlouis,0 - 1,12,Centre
+82,82,Chartres 2,Amilly,2 - 2,12,Centre
+83,83,Châteauroux 2,St-Jean-le-Blanc,1 - 1,12,Centre
+84,84,St-Jean-le-Blanc,Déols,1 - 2,13,Centre
+85,85,Ouest Tourangeau,Chartres 2,0 - 2,13,Centre
+86,86,Montlouis,Montargis,2 - 1,13,Centre
+87,87,Amilly,Vierzon,1 - 2,13,Centre
+88,88,Bourges 2,Chateauneuf s/L.,3 - 1,13,Centre
+89,89,Orléans 2,Châteauroux 2,1 - 0,13,Centre
+90,90,Saran,Avoine/Chinon,1 - 3,13,Centre
+91,91,Amilly,Chateauneuf s/L.,0 - 1,14,Centre
+92,92,Bourges 2,Montargis,1 - 2,14,Centre
+93,93,Montlouis,Avoine/Chinon,0 - 3,14,Centre
+94,94,Orléans 2,Déols,0 - 2,14,Centre
+95,95,Ouest Tourangeau,Vierzon,3 - 2,14,Centre
+96,96,Saran,Châteauroux 2,3 - 4,14,Centre
+97,97,St-Jean-le-Blanc,Chartres 2,4 - 4,14,Centre
+98,98,Vierzon,St-Jean-le-Blanc,2 - 0,15,Centre
+99,99,Avoine/Chinon,Bourges 2,1 - 3,15,Centre
+100,100,Déols,Saran,0 - 2,15,Centre
+101,101,Amilly,Ouest Tourangeau,2 - 2,15,Centre
+102,102,Chartres 2,Orléans 2,2 - 4,15,Centre
+103,103,Chateauneuf s/L.,Montargis,0 - 1,15,Centre
+104,104,Châteauroux 2,Montlouis,4 - 2,15,Centre
+105,105,Ouest Tourangeau,Chateauneuf s/L.,1 - 1,16,Centre
+106,106,Montargis,Avoine/Chinon,1 - 1,16,Centre
+107,107,Orléans 2,Vierzon,3 - 1,16,Centre
+108,108,Montlouis,Déols,3 - 1,16,Centre
+109,109,Bourges 2,Châteauroux 2,0 - 2,16,Centre
+110,110,Saran,Chartres 2,1 - 2,16,Centre
+111,111,St-Jean-le-Blanc,Amilly,2 - 2,16,Centre
+112,112,Ouest Tourangeau,St-Jean-le-Blanc,1 - 0,17,Centre
+113,113,Vierzon,Saran,1 - 0,17,Centre
+114,114,Déols,Bourges 2,2 - 0,17,Centre
+115,115,Amilly,Orléans 2,1 - 1,17,Centre
+116,116,Chartres 2,Montlouis,4 - 1,17,Centre
+117,117,Chateauneuf s/L.,Avoine/Chinon,1 - 0,17,Centre
+118,118,Châteauroux 2,Montargis,2 - 1,17,Centre
+119,119,Montargis,Déols,3 - 1,18,Centre
+120,120,Orléans 2,Ouest Tourangeau,1 - 2,18,Centre
+121,121,Avoine/Chinon,Châteauroux 2,0 - 1,18,Centre
+122,122,Montlouis,Vierzon,2 - 3,18,Centre
+123,123,Bourges 2,Chartres 2,0 - 2,18,Centre
+124,124,St-Jean-le-Blanc,Chateauneuf s/L.,0 - 4,18,Centre
+125,125,Saran,Amilly,0 - 0,18,Centre
+126,126,Ouest Tourangeau,Saran,1 - 2,19,Centre
+127,127,Vierzon,Bourges 2,2 - 2,19,Centre
+128,128,Déols,Avoine/Chinon,1 - 1,19,Centre
+129,129,Amilly,Montlouis,0 - 2,19,Centre
+130,130,Chartres 2,Montargis,2 - 1,19,Centre
+131,131,Chateauneuf s/L.,Châteauroux 2,4 - 1,19,Centre
+132,132,St-Jean-le-Blanc,Orléans 2,0 - 1,19,Centre
+133,133,Châteauroux 2,Déols,1 - 0,20,Centre
+134,134,Montargis,Vierzon,1 - 2,20,Centre
+135,135,Orléans 2,Chateauneuf s/L.,1 - 1,20,Centre
+136,136,Avoine/Chinon,Chartres 2,5 - 2,20,Centre
+137,137,Montlouis,Ouest Tourangeau,1 - 1,20,Centre
+138,138,Bourges 2,Amilly,2 - 1,20,Centre
+139,139,Saran,St-Jean-le-Blanc,1 - 0,20,Centre
+140,140,St-Jean-le-Blanc,Montlouis,1 - 3,21,Centre
+141,141,Orléans 2,Saran,2 - 0,21,Centre
+142,142,Ouest Tourangeau,Bourges 2,1 - 1,21,Centre
+143,143,Vierzon,Avoine/Chinon,1 - 2,21,Centre
+144,144,Amilly,Montargis,4 - 2,21,Centre
+145,145,Chartres 2,Châteauroux 2,2 - 2,21,Centre
+146,146,Chateauneuf s/L.,Déols,1 - 0,21,Centre
+147,147,Châteauroux 2,Vierzon,0 - 1,22,Centre
+148,148,Montargis,Ouest Tourangeau,1 - 2,22,Centre
+149,149,Avoine/Chinon,Amilly,2 - 1,22,Centre
+150,150,Déols,Chartres 2,0 - 3,22,Centre
+151,151,Montlouis,Orléans 2,2 - 0,22,Centre
+152,152,Bourges 2,St-Jean-le-Blanc,2 - 3,22,Centre
+153,153,Saran,Chateauneuf s/L.,0 - 0,22,Centre
+154,154,Saran,Montlouis,0 - 3,23,Centre
+155,155,Orléans 2,Bourges 2,0 - 3,23,Centre
+156,156,Ouest Tourangeau,Avoine/Chinon,1 - 1,23,Centre
+157,157,Vierzon,Déols,2 - 1,23,Centre
+158,158,Amilly,Châteauroux 2,2 - 3,23,Centre
+159,159,Chateauneuf s/L.,Chartres 2,2 - 0,23,Centre
+160,160,St-Jean-le-Blanc,Montargis,0 - 0,23,Centre
+161,161,Châteauroux 2,Ouest Tourangeau,1 - 2,24,Centre
+162,162,Montargis,Orléans 2,2 - 0,24,Centre
+163,163,Avoine/Chinon,St-Jean-le-Blanc,1 - 3,24,Centre
+164,164,Déols,Amilly,2 - 1,24,Centre
+165,165,Montlouis,Chateauneuf s/L.,1 - 0,24,Centre
+166,166,Bourges 2,Saran,1 - 2,24,Centre
+167,167,Chartres 2,Vierzon,3 - 4,24,Centre
+168,168,Orléans 2,Avoine/Chinon,4 - 3,25,Centre
+169,169,Saran,Montargis,1 - 0,25,Centre
+170,170,Montlouis,Bourges 2,3 - 1,25,Centre
+171,171,Ouest Tourangeau,Déols,3 - 0,25,Centre
+172,172,Amilly,Chartres 2,1 - 0,25,Centre
+173,173,Chateauneuf s/L.,Vierzon,1 - 0,25,Centre
+174,174,St-Jean-le-Blanc,Châteauroux 2,3 - 0,25,Centre
+175,175,Châteauroux 2,Orléans 2,3 - 0,26,Centre
+176,176,Chartres 2,Ouest Tourangeau,2 - 4,26,Centre
+177,177,Montargis,Montlouis,2 - 1,26,Centre
+178,178,Avoine/Chinon,Saran,0 - 2,26,Centre
+179,179,Chateauneuf s/L.,Bourges 2,1 - 2,26,Centre
+180,180,Déols,St-Jean-le-Blanc,2 - 1,26,Centre
+181,181,Vierzon,Amilly,3 - 3,26,Centre
+0,0,Nice 2,Lucciana,1 - 2,1,Corse-Medit
+1,1,Corte,Côte Bleue,2 - 0,1,Corse-Medit
+2,2,Cannes,AC Ajaccio (2),5 - 0,1,Corse-Medit
+3,3,Istres,Mandelieu-la-Nap.,5 - 1,1,Corse-Medit
+4,4,Le Cannet,Athletico Marseille,3 - 2,1,Corse-Medit
+5,5,Rousset Ste-Vict.,Endoume,0 - 2,1,Corse-Medit
+6,6,Furiani Agli.,Villefranche Sjb,1 - 0,1,Corse-Medit
+7,7,AC Ajaccio (2),Le Cannet,2 - 1,2,Corse-Medit
+8,8,Côte Bleue,Rousset Ste-Vict.,1 - 0,2,Corse-Medit
+9,9,GFC Ajaccio,Istres,2 - 1,2,Corse-Medit
+10,10,Endoume,Furiani Agli.,0 - 1,2,Corse-Medit
+11,11,Villefranche Sjb,Cannes,0 - 2,2,Corse-Medit
+12,12,Lucciana,Corte,3 - 1,2,Corse-Medit
+13,13,Mandelieu-la-Nap.,Nice 2,2 - 7,2,Corse-Medit
+14,14,Corte,Mandelieu-la-Nap.,4 - 0,3,Corse-Medit
+15,15,Nice 2,GFC Ajaccio,1 - 0,3,Corse-Medit
+16,16,Athletico Marseille,AC Ajaccio (2),3 - 0,3,Corse-Medit
+17,17,Furiani Agli.,Côte Bleue,2 - 0,3,Corse-Medit
+18,18,Le Cannet,Villefranche Sjb,2 - 0,3,Corse-Medit
+19,19,Rousset Ste-Vict.,Lucciana,1 - 0,3,Corse-Medit
+20,20,Cannes,Endoume,1 - 0,3,Corse-Medit
+21,21,Lucciana,Furiani Agli.,1 - 4,4,Corse-Medit
+22,22,Villefranche Sjb,Athletico Marseille,1 - 2,4,Corse-Medit
+23,23,Côte Bleue,Cannes,0 - 0,4,Corse-Medit
+24,24,Endoume,Le Cannet,0 - 2,4,Corse-Medit
+25,25,Istres,Nice 2,2 - 0,4,Corse-Medit
+26,26,GFC Ajaccio,Corte,4 - 1,4,Corse-Medit
+27,27,Mandelieu-la-Nap.,Rousset Ste-Vict.,0 - 2,4,Corse-Medit
+28,28,AC Ajaccio (2),Villefranche Sjb,1 - 1,5,Corse-Medit
+29,29,Corte,Istres,2 - 1,5,Corse-Medit
+30,30,Le Cannet,Côte Bleue,0 - 1,5,Corse-Medit
+31,31,Athletico Marseille,Endoume,0 - 1,5,Corse-Medit
+32,32,Rousset Ste-Vict.,GFC Ajaccio,0 - 0,5,Corse-Medit
+33,33,Furiani Agli.,Mandelieu-la-Nap.,2 - 0,5,Corse-Medit
+34,34,Cannes,Lucciana,5 - 1,5,Corse-Medit
+35,35,Lucciana,Le Cannet,2 - 0,6,Corse-Medit
+36,36,Nice 2,Corte,5 - 0,6,Corse-Medit
+37,37,Côte Bleue,Athletico Marseille,0 - 2,6,Corse-Medit
+38,38,Endoume,AC Ajaccio (2),1 - 0,6,Corse-Medit
+39,39,GFC Ajaccio,Furiani Agli.,2 - 1,6,Corse-Medit
+40,40,Istres,Rousset Ste-Vict.,2 - 2,6,Corse-Medit
+41,41,Mandelieu-la-Nap.,Cannes,0 - 1,6,Corse-Medit
+42,42,Rousset Ste-Vict.,Nice 2,2 - 1,7,Corse-Medit
+43,43,AC Ajaccio (2),Côte Bleue,0 - 0,7,Corse-Medit
+44,44,Athletico Marseille,Lucciana,1 - 2,7,Corse-Medit
+45,45,Villefranche Sjb,Endoume,0 - 0,7,Corse-Medit
+46,46,Le Cannet,Mandelieu-la-Nap.,5 - 2,7,Corse-Medit
+47,47,Cannes,GFC Ajaccio,3 - 1,7,Corse-Medit
+48,48,Furiani Agli.,Istres,3 - 1,7,Corse-Medit
+49,49,Côte Bleue,Villefranche Sjb,1 - 0,8,Corse-Medit
+50,50,Mandelieu-la-Nap.,Athletico Marseille,1 - 4,8,Corse-Medit
+51,51,Nice 2,Furiani Agli.,1 - 3,8,Corse-Medit
+52,52,GFC Ajaccio,Le Cannet,6 - 1,8,Corse-Medit
+53,53,Istres,Cannes,2 - 0,8,Corse-Medit
+54,54,Corte,Rousset Ste-Vict.,0 - 1,8,Corse-Medit
+55,55,Lucciana,AC Ajaccio (2),4 - 1,8,Corse-Medit
+56,56,Villefranche Sjb,Lucciana,0 - 1,9,Corse-Medit
+57,57,Furiani Agli.,Corte,6 - 0,9,Corse-Medit
+58,58,Le Cannet,Istres,4 - 0,9,Corse-Medit
+59,59,Cannes,Nice 2,1 - 0,9,Corse-Medit
+60,60,Endoume,Côte Bleue,1 - 2,9,Corse-Medit
+61,61,AC Ajaccio (2),Mandelieu-la-Nap.,2 - 0,9,Corse-Medit
+62,62,Athletico Marseille,GFC Ajaccio,1 - 2,9,Corse-Medit
+63,63,Rousset Ste-Vict.,Furiani Agli.,0 - 2,10,Corse-Medit
+64,64,Istres,Athletico Marseille,2 - 1,10,Corse-Medit
+65,65,Mandelieu-la-Nap.,Villefranche Sjb,0 - 5,10,Corse-Medit
+66,66,Lucciana,Endoume,2 - 0,10,Corse-Medit
+67,67,Nice 2,Le Cannet,0 - 2,10,Corse-Medit
+68,68,Corte,Cannes,1 - 0,10,Corse-Medit
+69,69,GFC Ajaccio,AC Ajaccio (2),1 - 1,10,Corse-Medit
+70,70,Le Cannet,Corte,0 - 0,11,Corse-Medit
+71,71,Villefranche Sjb,GFC Ajaccio,0 - 0,11,Corse-Medit
+72,72,Athletico Marseille,Nice 2,1 - 3,11,Corse-Medit
+73,73,Côte Bleue,Lucciana,0 - 1,11,Corse-Medit
+74,74,AC Ajaccio (2),Istres,2 - 0,11,Corse-Medit
+75,75,Cannes,Rousset Ste-Vict.,3 - 0,11,Corse-Medit
+76,76,Endoume,Mandelieu-la-Nap.,3 - 1,11,Corse-Medit
+77,77,Furiani Agli.,Cannes,2 - 2,12,Corse-Medit
+78,78,Mandelieu-la-Nap.,Côte Bleue,0 - 2,12,Corse-Medit
+79,79,Nice 2,AC Ajaccio (2),1 - 0,12,Corse-Medit
+80,80,Istres,Villefranche Sjb,4 - 1,12,Corse-Medit
+81,81,Rousset Ste-Vict.,Le Cannet,1 - 2,12,Corse-Medit
+82,82,GFC Ajaccio,Endoume,0 - 1,12,Corse-Medit
+83,83,Corte,Athletico Marseille,3 - 0    (Forfait),12,Corse-Medit
+84,84,Le Cannet,Furiani Agli.,1 - 1,13,Corse-Medit
+85,85,Villefranche Sjb,Nice 2,2 - 2,13,Corse-Medit
+86,86,Endoume,Istres,1 - 0,13,Corse-Medit
+87,87,Athletico Marseille,Rousset Ste-Vict.,1 - 1,13,Corse-Medit
+88,88,AC Ajaccio (2),Corte,1 - 0,13,Corse-Medit
+89,89,Lucciana,Mandelieu-la-Nap.,5 - 1,13,Corse-Medit
+90,90,Côte Bleue,GFC Ajaccio,0 - 1,13,Corse-Medit
+91,91,Furiani Agli.,Athletico Marseille,2 - 1,14,Corse-Medit
+92,92,Nice 2,Endoume,1 - 1,14,Corse-Medit
+93,93,Istres,Côte Bleue,1 - 2,14,Corse-Medit
+94,94,Cannes,Le Cannet,0 - 1,14,Corse-Medit
+95,95,Corte,Villefranche Sjb,2 - 0,14,Corse-Medit
+96,96,Rousset Ste-Vict.,AC Ajaccio (2),2 - 1,14,Corse-Medit
+97,97,GFC Ajaccio,Lucciana,1 - 0,14,Corse-Medit
+98,98,Athletico Marseille,Cannes,1 - 0,15,Corse-Medit
+99,99,Côte Bleue,Nice 2,1 - 2,15,Corse-Medit
+100,100,Lucciana,Istres,0 - 1,15,Corse-Medit
+101,101,Mandelieu-la-Nap.,GFC Ajaccio,1 - 2,15,Corse-Medit
+102,102,Villefranche Sjb,Rousset Ste-Vict.,0 - 1,15,Corse-Medit
+103,103,Endoume,Corte,0 - 1,15,Corse-Medit
+104,104,AC Ajaccio (2),Furiani Agli.,0 - 2,15,Corse-Medit
+105,105,Furiani Agli.,Endoume,6 - 2,16,Corse-Medit
+106,106,Le Cannet,AC Ajaccio (2),2 - 0,16,Corse-Medit
+107,107,Nice 2,Mandelieu-la-Nap.,4 - 2,16,Corse-Medit
+108,108,Istres,GFC Ajaccio,1 - 1,16,Corse-Medit
+109,109,Cannes,Villefranche Sjb,5 - 0,16,Corse-Medit
+110,110,Rousset Ste-Vict.,Côte Bleue,1 - 1,16,Corse-Medit
+111,111,Corte,Lucciana,1 - 1,16,Corse-Medit
+112,112,Mandelieu-la-Nap.,Corte,2 - 3,17,Corse-Medit
+113,113,Côte Bleue,Furiani Agli.,0 - 1,17,Corse-Medit
+114,114,Villefranche Sjb,Le Cannet,1 - 1,17,Corse-Medit
+115,115,GFC Ajaccio,Nice 2,0 - 0,17,Corse-Medit
+116,116,Endoume,Cannes,0 - 1,17,Corse-Medit
+117,117,AC Ajaccio (2),Athletico Marseille,1 - 4,17,Corse-Medit
+118,118,Lucciana,Rousset Ste-Vict.,1 - 3,17,Corse-Medit
+119,119,Furiani Agli.,Lucciana,1 - 0,18,Corse-Medit
+120,120,Athletico Marseille,Villefranche Sjb,2 - 1,18,Corse-Medit
+121,121,Le Cannet,Endoume,3 - 0,18,Corse-Medit
+122,122,Nice 2,Istres,1 - 1,18,Corse-Medit
+123,123,Cannes,Côte Bleue,4 - 0,18,Corse-Medit
+124,124,Rousset Ste-Vict.,Mandelieu-la-Nap.,4 - 0,18,Corse-Medit
+125,125,Corte,GFC Ajaccio,0 - 2,18,Corse-Medit
+126,126,Istres,Corte,5 - 0,19,Corse-Medit
+127,127,Mandelieu-la-Nap.,Furiani Agli.,1 - 4,19,Corse-Medit
+128,128,Lucciana,Cannes,3 - 0,19,Corse-Medit
+129,129,Endoume,Athletico Marseille,1 - 1,19,Corse-Medit
+130,130,GFC Ajaccio,Rousset Ste-Vict.,1 - 1,19,Corse-Medit
+131,131,Côte Bleue,Le Cannet,0 - 5,19,Corse-Medit
+132,132,Villefranche Sjb,AC Ajaccio (2),0 - 4,19,Corse-Medit
+133,133,Le Cannet,Lucciana,1 - 3,20,Corse-Medit
+134,134,Corte,Nice 2,1 - 2,20,Corse-Medit
+135,135,Furiani Agli.,GFC Ajaccio,2 - 1,20,Corse-Medit
+136,136,Cannes,Mandelieu-la-Nap.,3 - 0,20,Corse-Medit
+137,137,Rousset Ste-Vict.,Istres,1 - 1,20,Corse-Medit
+138,138,AC Ajaccio (2),Endoume,2 - 1,20,Corse-Medit
+139,139,Athletico Marseille,Côte Bleue,4 - 3,20,Corse-Medit
+140,140,Istres,Furiani Agli.,0 - 1,21,Corse-Medit
+141,141,Mandelieu-la-Nap.,Le Cannet,1 - 4,21,Corse-Medit
+142,142,Endoume,Villefranche Sjb,2 - 0,21,Corse-Medit
+143,143,Lucciana,Athletico Marseille,5 - 4,21,Corse-Medit
+144,144,Nice 2,Rousset Ste-Vict.,1 - 1,21,Corse-Medit
+145,145,GFC Ajaccio,Cannes,0 - 1,21,Corse-Medit
+146,146,Côte Bleue,AC Ajaccio (2),0 - 0,21,Corse-Medit
+147,147,Furiani Agli.,Nice 2,1 - 0,22,Corse-Medit
+148,148,Rousset Ste-Vict.,Corte,5 - 1,22,Corse-Medit
+149,149,Villefranche Sjb,Côte Bleue,0 - 2,22,Corse-Medit
+150,150,Le Cannet,GFC Ajaccio,1 - 0,22,Corse-Medit
+151,151,Athletico Marseille,Mandelieu-la-Nap.,7 - 1,22,Corse-Medit
+152,152,AC Ajaccio (2),Lucciana,1 - 1,22,Corse-Medit
+153,153,Cannes,Istres,2 - 1,22,Corse-Medit
+154,154,Lucciana,Villefranche Sjb,4 - 0,23,Corse-Medit
+155,155,Côte Bleue,Endoume,3 - 0,23,Corse-Medit
+156,156,GFC Ajaccio,Athletico Marseille,3 - 2,23,Corse-Medit
+157,157,Istres,Le Cannet,1 - 1,23,Corse-Medit
+158,158,Nice 2,Cannes,2 - 1,23,Corse-Medit
+159,159,Corte,Furiani Agli.,1 - 0,23,Corse-Medit
+160,160,Mandelieu-la-Nap.,AC Ajaccio (2),0 - 2,23,Corse-Medit
+161,161,Cannes,Corte,1 - 0,24,Corse-Medit
+162,162,Furiani Agli.,Rousset Ste-Vict.,2 - 2,24,Corse-Medit
+163,163,Villefranche Sjb,Mandelieu-la-Nap.,1 - 3,24,Corse-Medit
+164,164,Le Cannet,Nice 2,1 - 1,24,Corse-Medit
+165,165,Athletico Marseille,Istres,1 - 1,24,Corse-Medit
+166,166,Endoume,Lucciana,2 - 3,24,Corse-Medit
+167,167,AC Ajaccio (2),GFC Ajaccio,1 - 1,24,Corse-Medit
+168,168,GFC Ajaccio,Villefranche Sjb,5 - 1,25,Corse-Medit
+169,169,Corte,Le Cannet,2 - 0,25,Corse-Medit
+170,170,Nice 2,Athletico Marseille,4 - 1,25,Corse-Medit
+171,171,Istres,AC Ajaccio (2),0 - 2,25,Corse-Medit
+172,172,Rousset Ste-Vict.,Cannes,2 - 5,25,Corse-Medit
+173,173,Lucciana,Côte Bleue,0 - 1,25,Corse-Medit
+174,174,Mandelieu-la-Nap.,Endoume,2 - 7,25,Corse-Medit
+175,175,Côte Bleue,Mandelieu-la-Nap.,5 - 1,26,Corse-Medit
+176,176,Endoume,GFC Ajaccio,1 - 3,26,Corse-Medit
+177,177,Villefranche Sjb,Istres,1 - 1,26,Corse-Medit
+178,178,Athletico Marseille,Corte,1 - 3,26,Corse-Medit
+179,179,Cannes,Furiani Agli.,2 - 1,26,Corse-Medit
+180,180,Le Cannet,Rousset Ste-Vict.,1 - 1,26,Corse-Medit
+181,181,AC Ajaccio (2),Nice 2,0 - 1,26,Corse-Medit
+182,182,Furiani Agli.,Le Cannet,3 - 2,27,Corse-Medit
+183,183,GFC Ajaccio,Côte Bleue,2 - 1,27,Corse-Medit
+184,184,Nice 2,Villefranche Sjb,7 - 2,27,Corse-Medit
+185,185,Istres,Endoume,3 - 0,27,Corse-Medit
+186,186,Rousset Ste-Vict.,Athletico Marseille,2 - 1,27,Corse-Medit
+187,187,Mandelieu-la-Nap.,Lucciana,0 - 4,27,Corse-Medit
+188,188,Corte,AC Ajaccio (2),3 - 0,27,Corse-Medit
+189,189,Villefranche Sjb,Corte,1 - 6,28,Corse-Medit
+190,190,Côte Bleue,Istres,6 - 1,28,Corse-Medit
+191,191,Endoume,Nice 2,0 - 2,28,Corse-Medit
+192,192,AC Ajaccio (2),Rousset Ste-Vict.,7 - 0,28,Corse-Medit
+193,193,Lucciana,GFC Ajaccio,3 - 2,28,Corse-Medit
+194,194,Athletico Marseille,Furiani Agli.,1 - 4,28,Corse-Medit
+195,195,Le Cannet,Cannes,0 - 1,28,Corse-Medit
+0,0,Paron,Besançon Foot,1 - 0,1,Bourg-Fr Comté
+1,1,St-Apollinaire,Morteau Montleb,1 - 1,1,Bourg-Fr Comté
+2,2,Gueugnon,Sochaux (2),1 - 1,1,Bourg-Fr Comté
+3,3,Racing Besançon,Montceau-lès-M,3 - 2,1,Bourg-Fr Comté
+4,4,Selongey,Jura Dolois,1 - 1,1,Bourg-Fr Comté
+5,5,Dijon FCO (2),Pontarlier,1 - 1,1,Bourg-Fr Comté
+6,6,Valdahon-Vercel,Grandvillars,1 - 2,1,Bourg-Fr Comté
+7,7,Sochaux (2),Paron,5 - 0,2,Bourg-Fr Comté
+8,8,Besançon Foot,Dijon FCO (2),2 - 0,2,Bourg-Fr Comté
+9,9,Grandvillars,Racing Besançon,0 - 3,2,Bourg-Fr Comté
+10,10,Jura Dolois,Valdahon-Vercel,2 - 1,2,Bourg-Fr Comté
+11,11,Montceau-lès-M,Gueugnon,0 - 3,2,Bourg-Fr Comté
+12,12,Pontarlier,St-Apollinaire,4 - 3,2,Bourg-Fr Comté
+13,13,Selongey,Morteau Montleb,2 - 0,2,Bourg-Fr Comté
+14,14,Paron,Montceau-lès-M,1 - 0,3,Bourg-Fr Comté
+15,15,St-Apollinaire,Besançon Foot,2 - 1,3,Bourg-Fr Comté
+16,16,Gueugnon,Grandvillars,1 - 0,3,Bourg-Fr Comté
+17,17,Morteau Montleb,Pontarlier,1 - 2,3,Bourg-Fr Comté
+18,18,Racing Besançon,Jura Dolois,1 - 0,3,Bourg-Fr Comté
+19,19,Dijon FCO (2),Sochaux (2),2 - 0,3,Bourg-Fr Comté
+20,20,Valdahon-Vercel,Selongey,1 - 2,3,Bourg-Fr Comté
+21,21,Besançon Foot,Morteau Montleb,1 - 1,4,Bourg-Fr Comté
+22,22,Grandvillars,Paron,1 - 0,4,Bourg-Fr Comté
+23,23,Jura Dolois,Gueugnon,0 - 0,4,Bourg-Fr Comté
+24,24,Montceau-lès-M,Dijon FCO (2),0 - 0,4,Bourg-Fr Comté
+25,25,Selongey,Pontarlier,0 - 0,4,Bourg-Fr Comté
+26,26,Sochaux (2),St-Apollinaire,3 - 0,4,Bourg-Fr Comté
+27,27,Valdahon-Vercel,Racing Besançon,1 - 4,4,Bourg-Fr Comté
+28,28,Paron,Jura Dolois,0 - 2,5,Bourg-Fr Comté
+29,29,St-Apollinaire,Montceau-lès-M,1 - 0,5,Bourg-Fr Comté
+30,30,Dijon FCO (2),Grandvillars,1 - 0,5,Bourg-Fr Comté
+31,31,Gueugnon,Valdahon-Vercel,3 - 1,5,Bourg-Fr Comté
+32,32,Morteau Montleb,Sochaux (2),1 - 1,5,Bourg-Fr Comté
+33,33,Pontarlier,Besançon Foot,2 - 3,5,Bourg-Fr Comté
+34,34,Racing Besançon,Selongey,2 - 1,5,Bourg-Fr Comté
+35,35,Grandvillars,St-Apollinaire,1 - 0,6,Bourg-Fr Comté
+36,36,Jura Dolois,Dijon FCO (2),2 - 1,6,Bourg-Fr Comté
+37,37,Montceau-lès-M,Morteau Montleb,2 - 1,6,Bourg-Fr Comté
+38,38,Racing Besançon,Gueugnon,1 - 0,6,Bourg-Fr Comté
+39,39,Selongey,Besançon Foot,4 - 0,6,Bourg-Fr Comté
+40,40,Sochaux (2),Pontarlier,4 - 1,6,Bourg-Fr Comté
+41,41,Valdahon-Vercel,Paron,1 - 1,6,Bourg-Fr Comté
+42,42,St-Apollinaire,Jura Dolois,0 - 5,7,Bourg-Fr Comté
+43,43,Besançon Foot,Sochaux (2),1 - 0,7,Bourg-Fr Comté
+44,44,Gueugnon,Selongey,4 - 0,7,Bourg-Fr Comté
+45,45,Morteau Montleb,Grandvillars,2 - 1,7,Bourg-Fr Comté
+46,46,Pontarlier,Montceau-lès-M,0 - 1,7,Bourg-Fr Comté
+47,47,Dijon FCO (2),Valdahon-Vercel,4 - 0,7,Bourg-Fr Comté
+48,48,Paron,Racing Besançon,1 - 2,7,Bourg-Fr Comté
+49,49,Grandvillars,Pontarlier,4 - 2,8,Bourg-Fr Comté
+50,50,Gueugnon,Paron,4 - 0,8,Bourg-Fr Comté
+51,51,Jura Dolois,Morteau Montleb,1 - 1,8,Bourg-Fr Comté
+52,52,Montceau-lès-M,Besançon Foot,2 - 3,8,Bourg-Fr Comté
+53,53,Racing Besançon,Dijon FCO (2),3 - 1,8,Bourg-Fr Comté
+54,54,Selongey,Sochaux (2),1 - 2,8,Bourg-Fr Comté
+55,55,Valdahon-Vercel,St-Apollinaire,1 - 2,8,Bourg-Fr Comté
+56,56,Pontarlier,Jura Dolois,0 - 0,9,Bourg-Fr Comté
+57,57,Besançon Foot,Grandvillars,1 - 2,9,Bourg-Fr Comté
+58,58,Dijon FCO (2),Gueugnon,1 - 0,9,Bourg-Fr Comté
+59,59,Paron,Selongey,1 - 4,9,Bourg-Fr Comté
+60,60,St-Apollinaire,Racing Besançon,0 - 2,9,Bourg-Fr Comté
+61,61,Sochaux (2),Montceau-lès-M,3 - 1,9,Bourg-Fr Comté
+62,62,Morteau Montleb,Valdahon-Vercel,2 - 0,9,Bourg-Fr Comté
+63,63,Jura Dolois,Besançon Foot,2 - 2,10,Bourg-Fr Comté
+64,64,Racing Besançon,Morteau Montleb,4 - 1,10,Bourg-Fr Comté
+65,65,Paron,Dijon FCO (2),2 - 1,10,Bourg-Fr Comté
+66,66,Gueugnon,St-Apollinaire,0 - 0,10,Bourg-Fr Comté
+67,67,Selongey,Montceau-lès-M,1 - 1,10,Bourg-Fr Comté
+68,68,Grandvillars,Sochaux (2),1 - 3,10,Bourg-Fr Comté
+69,69,Pontarlier,Valdahon-Vercel,2 - 0,10,Bourg-Fr Comté
+70,70,St-Apollinaire,Paron,1 - 1,11,Bourg-Fr Comté
+71,71,Besançon Foot,Valdahon-Vercel,2 - 1,11,Bourg-Fr Comté
+72,72,Dijon FCO (2),Selongey,1 - 1,11,Bourg-Fr Comté
+73,73,Sochaux (2),Jura Dolois,4 - 0,11,Bourg-Fr Comté
+74,74,Montceau-lès-M,Grandvillars,0 - 2,11,Bourg-Fr Comté
+75,75,Pontarlier,Racing Besançon,1 - 2,11,Bourg-Fr Comté
+76,76,Morteau Montleb,Gueugnon,0 - 1,11,Bourg-Fr Comté
+77,77,Racing Besançon,Besançon Foot,3 - 3,12,Bourg-Fr Comté
+78,78,Grandvillars,Selongey,2 - 1,12,Bourg-Fr Comté
+79,79,Jura Dolois,Montceau-lès-M,1 - 0,12,Bourg-Fr Comté
+80,80,Dijon FCO (2),St-Apollinaire,3 - 1,12,Bourg-Fr Comté
+81,81,Paron,Morteau Montleb,2 - 1,12,Bourg-Fr Comté
+82,82,Sochaux (2),Valdahon-Vercel,3 - 1,12,Bourg-Fr Comté
+83,83,Gueugnon,Pontarlier,3 - 0,12,Bourg-Fr Comté
+84,84,Besançon Foot,Gueugnon,1 - 1,13,Bourg-Fr Comté
+85,85,Grandvillars,Jura Dolois,3 - 0,13,Bourg-Fr Comté
+86,86,Selongey,St-Apollinaire,4 - 1,13,Bourg-Fr Comté
+87,87,Dijon FCO (2),Morteau Montleb,3 - 1,13,Bourg-Fr Comté
+88,88,Paron,Pontarlier,1 - 4,13,Bourg-Fr Comté
+89,89,Sochaux (2),Racing Besançon,2 - 2,13,Bourg-Fr Comté
+90,90,Montceau-lès-M,Valdahon-Vercel,3 - 0,13,Bourg-Fr Comté
+91,91,St-Apollinaire,Pontarlier,2 - 2,14,Bourg-Fr Comté
+92,92,Morteau Montleb,Selongey,1 - 0,14,Bourg-Fr Comté
+93,93,Gueugnon,Montceau-lès-M,4 - 0,14,Bourg-Fr Comté
+94,94,Racing Besançon,Grandvillars,1 - 1,14,Bourg-Fr Comté
+95,95,Dijon FCO (2),Besançon Foot,1 - 1,14,Bourg-Fr Comté
+96,96,Paron,Sochaux (2),0 - 2,14,Bourg-Fr Comté
+97,97,Valdahon-Vercel,Jura Dolois,0 - 1,14,Bourg-Fr Comté
+98,98,Pontarlier,Morteau Montleb,1 - 0,15,Bourg-Fr Comté
+99,99,Besançon Foot,St-Apollinaire,0 - 1,15,Bourg-Fr Comté
+100,100,Grandvillars,Gueugnon,1 - 3,15,Bourg-Fr Comté
+101,101,Jura Dolois,Racing Besançon,4 - 0,15,Bourg-Fr Comté
+102,102,Montceau-lès-M,Paron,2 - 1,15,Bourg-Fr Comté
+103,103,Selongey,Valdahon-Vercel,6 - 2,15,Bourg-Fr Comté
+104,104,Sochaux (2),Dijon FCO (2),3 - 5,15,Bourg-Fr Comté
+105,105,Pontarlier,Selongey,0 - 3,16,Bourg-Fr Comté
+106,106,Gueugnon,Jura Dolois,4 - 1,16,Bourg-Fr Comté
+107,107,Morteau Montleb,Besançon Foot,1 - 2,16,Bourg-Fr Comté
+108,108,Racing Besançon,Valdahon-Vercel,0 - 2,16,Bourg-Fr Comté
+109,109,Paron,Grandvillars,0 - 2,16,Bourg-Fr Comté
+110,110,St-Apollinaire,Sochaux (2),0 - 0,16,Bourg-Fr Comté
+111,111,Dijon FCO (2),Montceau-lès-M,0 - 0,16,Bourg-Fr Comté
+112,112,Besançon Foot,Pontarlier,0 - 1,17,Bourg-Fr Comté
+113,113,Grandvillars,Dijon FCO (2),1 - 0,17,Bourg-Fr Comté
+114,114,Jura Dolois,Paron,2 - 1,17,Bourg-Fr Comté
+115,115,Montceau-lès-M,St-Apollinaire,0 - 1,17,Bourg-Fr Comté
+116,116,Selongey,Racing Besançon,0 - 1,17,Bourg-Fr Comté
+117,117,Sochaux (2),Morteau Montleb,2 - 1,17,Bourg-Fr Comté
+118,118,Valdahon-Vercel,Gueugnon,1 - 0,17,Bourg-Fr Comté
+119,119,St-Apollinaire,Grandvillars,2 - 1,18,Bourg-Fr Comté
+120,120,Dijon FCO (2),Jura Dolois,0 - 1,18,Bourg-Fr Comté
+121,121,Besançon Foot,Selongey,1 - 1,18,Bourg-Fr Comté
+122,122,Gueugnon,Racing Besançon,0 - 0,18,Bourg-Fr Comté
+123,123,Morteau Montleb,Montceau-lès-M,2 - 2,18,Bourg-Fr Comté
+124,124,Pontarlier,Sochaux (2),0 - 2,18,Bourg-Fr Comté
+125,125,Paron,Valdahon-Vercel,2 - 0,18,Bourg-Fr Comté
+126,126,Grandvillars,Morteau Montleb,1 - 2,19,Bourg-Fr Comté
+127,127,Jura Dolois,St-Apollinaire,6 - 0,19,Bourg-Fr Comté
+128,128,Montceau-lès-M,Pontarlier,2 - 1,19,Bourg-Fr Comté
+129,129,Racing Besançon,Paron,3 - 2,19,Bourg-Fr Comté
+130,130,Selongey,Gueugnon,1 - 2,19,Bourg-Fr Comté
+131,131,Sochaux (2),Besançon Foot,0 - 1,19,Bourg-Fr Comté
+132,132,Valdahon-Vercel,Dijon FCO (2),0 - 2,19,Bourg-Fr Comté
+133,133,Paron,Gueugnon,0 - 1,20,Bourg-Fr Comté
+134,134,Sochaux (2),Selongey,2 - 1,20,Bourg-Fr Comté
+135,135,St-Apollinaire,Valdahon-Vercel,2 - 2,20,Bourg-Fr Comté
+136,136,Besançon Foot,Montceau-lès-M,0 - 5,20,Bourg-Fr Comté
+137,137,Dijon FCO (2),Racing Besançon,1 - 1,20,Bourg-Fr Comté
+138,138,Morteau Montleb,Jura Dolois,2 - 1,20,Bourg-Fr Comté
+139,139,Pontarlier,Grandvillars,5 - 0,20,Bourg-Fr Comté
+140,140,Grandvillars,Besançon Foot,2 - 3,21,Bourg-Fr Comté
+141,141,Gueugnon,Dijon FCO (2),3 - 0,21,Bourg-Fr Comté
+142,142,Jura Dolois,Pontarlier,4 - 2,21,Bourg-Fr Comté
+143,143,Montceau-lès-M,Sochaux (2),1 - 1,21,Bourg-Fr Comté
+144,144,Racing Besançon,St-Apollinaire,3 - 0,21,Bourg-Fr Comté
+145,145,Selongey,Paron,0 - 1,21,Bourg-Fr Comté
+146,146,Valdahon-Vercel,Morteau Montleb,2 - 2,21,Bourg-Fr Comté
+147,147,St-Apollinaire,Gueugnon,2 - 0,22,Bourg-Fr Comté
+148,148,Besançon Foot,Jura Dolois,4 - 1,22,Bourg-Fr Comté
+149,149,Montceau-lès-M,Selongey,0 - 0,22,Bourg-Fr Comté
+150,150,Morteau Montleb,Racing Besançon,1 - 3,22,Bourg-Fr Comté
+151,151,Dijon FCO (2),Paron,3 - 0,22,Bourg-Fr Comté
+152,152,Sochaux (2),Grandvillars,3 - 0,22,Bourg-Fr Comté
+153,153,Valdahon-Vercel,Pontarlier,1 - 0,22,Bourg-Fr Comté
+154,154,Grandvillars,Montceau-lès-M,2 - 4,23,Bourg-Fr Comté
+155,155,Gueugnon,Morteau Montleb,3 - 1,23,Bourg-Fr Comté
+156,156,Jura Dolois,Sochaux (2),4 - 1,23,Bourg-Fr Comté
+157,157,Racing Besançon,Pontarlier,3 - 1,23,Bourg-Fr Comté
+158,158,Selongey,Dijon FCO (2),2 - 1,23,Bourg-Fr Comté
+159,159,Paron,St-Apollinaire,0 - 0,23,Bourg-Fr Comté
+160,160,Valdahon-Vercel,Besançon Foot,0 - 3,23,Bourg-Fr Comté
+161,161,St-Apollinaire,Dijon FCO (2),1 - 5,24,Bourg-Fr Comté
+162,162,Besançon Foot,Racing Besançon,2 - 1,24,Bourg-Fr Comté
+163,163,Montceau-lès-M,Jura Dolois,3 - 1,24,Bourg-Fr Comté
+164,164,Morteau Montleb,Paron,2 - 0,24,Bourg-Fr Comté
+165,165,Pontarlier,Gueugnon,1 - 1,24,Bourg-Fr Comté
+166,166,Selongey,Grandvillars,1 - 2,24,Bourg-Fr Comté
+167,167,Valdahon-Vercel,Sochaux (2),1 - 2,24,Bourg-Fr Comté
+168,168,St-Apollinaire,Selongey,0 - 0,25,Bourg-Fr Comté
+169,169,Gueugnon,Besançon Foot,1 - 0,25,Bourg-Fr Comté
+170,170,Jura Dolois,Grandvillars,0 - 3,25,Bourg-Fr Comté
+171,171,Morteau Montleb,Dijon FCO (2),3 - 2,25,Bourg-Fr Comté
+172,172,Pontarlier,Paron,2 - 0,25,Bourg-Fr Comté
+173,173,Racing Besançon,Sochaux (2),0 - 0,25,Bourg-Fr Comté
+174,174,Valdahon-Vercel,Montceau-lès-M,1 - 5,25,Bourg-Fr Comté
+175,175,Besançon Foot,Paron,2 - 0,26,Bourg-Fr Comté
+176,176,Grandvillars,Valdahon-Vercel,9 - 0,26,Bourg-Fr Comté
+177,177,Jura Dolois,Selongey,2 - 1,26,Bourg-Fr Comté
+178,178,Montceau-lès-M,Racing Besançon,0 - 3,26,Bourg-Fr Comté
+179,179,Morteau Montleb,St-Apollinaire,2 - 3,26,Bourg-Fr Comté
+180,180,Pontarlier,Dijon FCO (2),1 - 0,26,Bourg-Fr Comté
+181,181,Sochaux (2),Gueugnon,3 - 0,26,Bourg-Fr Comté
+0,0,Thaon,Amnéville,2 - 1,1,Grand est
+1,1,Mulhouse Fc,Raon-l'Étape,0 - 3,1,Grand est
+2,2,Prix-lès-Méz.,Biesheim,1 - 1,1,Grand est
+3,3,Epernay RC,Troyes (2),2 - 2,1,Grand est
+4,4,Illkirch-Graffen,Sarre-Union,0 - 2,1,Grand est
+5,5,Colmar,Strasbourg (2),1 - 0,1,Grand est
+6,6,Nancy (2),St-Louis/Neuw.,4 - 0,1,Grand est
+7,7,Strasbourg (2),Mulhouse Fc,1 - 1,2,Grand est
+8,8,Amnéville,Epernay RC,1 - 3,2,Grand est
+9,9,Biesheim,Nancy (2),1 - 1,2,Grand est
+10,10,Raon-l'Étape,Illkirch-Graffen,3 - 2,2,Grand est
+11,11,Sarre-Union,Thaon,1 - 2,2,Grand est
+12,12,St-Louis/Neuw.,Colmar,0 - 1,2,Grand est
+13,13,Troyes (2),Prix-lès-Méz.,3 - 1,2,Grand est
+14,14,Nancy (2),Troyes (2),1 - 2,3,Grand est
+15,15,Amnéville,Sarre-Union,0 - 4,3,Grand est
+16,16,Epernay RC,Prix-lès-Méz.,0 - 1,3,Grand est
+17,17,Illkirch-Graffen,Strasbourg (2),1 - 1,3,Grand est
+18,18,Mulhouse Fc,St-Louis/Neuw.,2 - 0,3,Grand est
+19,19,Thaon,Raon-l'Étape,1 - 4,3,Grand est
+20,20,Colmar,Biesheim,2 - 0,3,Grand est
+21,21,Raon-l'Étape,Amnéville,5 - 0,4,Grand est
+22,22,Sarre-Union,Epernay RC,3 - 0,4,Grand est
+23,23,St-Louis/Neuw.,Illkirch-Graffen,2 - 0,4,Grand est
+24,24,Troyes (2),Colmar,1 - 1,4,Grand est
+25,25,Prix-lès-Méz.,Nancy (2),2 - 1,4,Grand est
+26,26,Strasbourg (2),Thaon,2 - 2,4,Grand est
+27,27,Biesheim,Mulhouse Fc,1 - 3,4,Grand est
+28,28,Illkirch-Graffen,Biesheim,1 - 3,5,Grand est
+29,29,Colmar,Prix-lès-Méz.,2 - 1,5,Grand est
+30,30,Amnéville,Strasbourg (2),0 - 2,5,Grand est
+31,31,Epernay RC,Nancy (2),0 - 5,5,Grand est
+32,32,Mulhouse Fc,Troyes (2),0 - 2,5,Grand est
+33,33,Sarre-Union,Raon-l'Étape,2 - 0,5,Grand est
+34,34,Thaon,St-Louis/Neuw.,3 - 3,5,Grand est
+35,35,Prix-lès-Méz.,Mulhouse Fc,3 - 2,6,Grand est
+36,36,Troyes (2),Illkirch-Graffen,0 - 0,6,Grand est
+37,37,Nancy (2),Colmar,0 - 0,6,Grand est
+38,38,Strasbourg (2),Sarre-Union,1 - 1,6,Grand est
+39,39,Biesheim,Thaon,2 - 1,6,Grand est
+40,40,Raon-l'Étape,Epernay RC,1 - 0,6,Grand est
+41,41,St-Louis/Neuw.,Amnéville,2 - 0,6,Grand est
+42,42,Amnéville,Biesheim,0 - 1,7,Grand est
+43,43,Epernay RC,Colmar,0 - 5,7,Grand est
+44,44,Illkirch-Graffen,Prix-lès-Méz.,1 - 1,7,Grand est
+45,45,Raon-l'Étape,Strasbourg (2),1 - 1,7,Grand est
+46,46,Sarre-Union,St-Louis/Neuw.,0 - 2,7,Grand est
+47,47,Thaon,Troyes (2),3 - 2,7,Grand est
+48,48,Mulhouse Fc,Nancy (2),2 - 1,7,Grand est
+49,49,Prix-lès-Méz.,Thaon,1 - 3,8,Grand est
+50,50,Biesheim,Sarre-Union,2 - 2,8,Grand est
+51,51,Colmar,Mulhouse Fc,1 - 0,8,Grand est
+52,52,St-Louis/Neuw.,Raon-l'Étape,0 - 0,8,Grand est
+53,53,Troyes (2),Amnéville,2 - 1,8,Grand est
+54,54,Nancy (2),Illkirch-Graffen,1 - 1,8,Grand est
+55,55,Strasbourg (2),Epernay RC,0 - 1,8,Grand est
+56,56,Illkirch-Graffen,Colmar,2 - 3,9,Grand est
+57,57,Amnéville,Prix-lès-Méz.,5 - 0,9,Grand est
+58,58,Strasbourg (2),St-Louis/Neuw.,4 - 1,9,Grand est
+59,59,Thaon,Nancy (2),0 - 1,9,Grand est
+60,60,Epernay RC,Mulhouse Fc,0 - 0,9,Grand est
+61,61,Sarre-Union,Troyes (2),1 - 1,9,Grand est
+62,62,Raon-l'Étape,Biesheim,3 - 0,9,Grand est
+63,63,Prix-lès-Méz.,Sarre-Union,1 - 1,10,Grand est
+64,64,St-Louis/Neuw.,Epernay RC,1 - 3,10,Grand est
+65,65,Troyes (2),Raon-l'Étape,2 - 2,10,Grand est
+66,66,Biesheim,Strasbourg (2),1 - 0,10,Grand est
+67,67,Colmar,Thaon,2 - 1,10,Grand est
+68,68,Mulhouse Fc,Illkirch-Graffen,4 - 1,10,Grand est
+69,69,Nancy (2),Amnéville,1 - 0,10,Grand est
+70,70,Sarre-Union,Nancy (2),0 - 2,11,Grand est
+71,71,Epernay RC,Illkirch-Graffen,1 - 0,11,Grand est
+72,72,Amnéville,Colmar,1 - 4,11,Grand est
+73,73,Thaon,Mulhouse Fc,4 - 0,11,Grand est
+74,74,Raon-l'Étape,Prix-lès-Méz.,0 - 1,11,Grand est
+75,75,St-Louis/Neuw.,Biesheim,3 - 1,11,Grand est
+76,76,Strasbourg (2),Troyes (2),1 - 1,11,Grand est
+77,77,Illkirch-Graffen,Thaon,3 - 4,12,Grand est
+78,78,Nancy (2),Raon-l'Étape,1 - 4,12,Grand est
+79,79,Biesheim,Epernay RC,1 - 0,12,Grand est
+80,80,Colmar,Sarre-Union,1 - 0,12,Grand est
+81,81,Prix-lès-Méz.,Strasbourg (2),1 - 2,12,Grand est
+82,82,Troyes (2),St-Louis/Neuw.,6 - 4,12,Grand est
+83,83,Mulhouse Fc,Amnéville,3 - 0,12,Grand est
+84,84,Epernay RC,Thaon,1 - 2,13,Grand est
+85,85,Biesheim,Troyes (2),2 - 2,13,Grand est
+86,86,Raon-l'Étape,Colmar,0 - 1,13,Grand est
+87,87,Sarre-Union,Mulhouse Fc,3 - 2,13,Grand est
+88,88,St-Louis/Neuw.,Prix-lès-Méz.,1 - 1,13,Grand est
+89,89,Strasbourg (2),Nancy (2),2 - 1,13,Grand est
+90,90,Amnéville,Illkirch-Graffen,0 - 1,13,Grand est
+91,91,Prix-lès-Méz.,Epernay RC,0 - 1,14,Grand est
+92,92,Raon-l'Étape,Thaon,1 - 1,14,Grand est
+93,93,Sarre-Union,Amnéville,2 - 0,14,Grand est
+94,94,St-Louis/Neuw.,Mulhouse Fc,0 - 1,14,Grand est
+95,95,Troyes (2),Nancy (2),1 - 2,14,Grand est
+96,96,Strasbourg (2),Illkirch-Graffen,1 - 1,14,Grand est
+97,97,Biesheim,Colmar,1 - 2,14,Grand est
+98,98,Amnéville,Raon-l'Étape,0 - 1,15,Grand est
+99,99,Epernay RC,Sarre-Union,2 - 3,15,Grand est
+100,100,Colmar,Troyes (2),6 - 2,15,Grand est
+101,101,Illkirch-Graffen,St-Louis/Neuw.,3 - 1,15,Grand est
+102,102,Mulhouse Fc,Biesheim,1 - 1,15,Grand est
+103,103,Thaon,Strasbourg (2),0 - 3,15,Grand est
+104,104,Nancy (2),Prix-lès-Méz.,1 - 2,15,Grand est
+105,105,Prix-lès-Méz.,Colmar,0 - 0,16,Grand est
+106,106,Biesheim,Illkirch-Graffen,1 - 1,16,Grand est
+107,107,Raon-l'Étape,Sarre-Union,2 - 1,16,Grand est
+108,108,St-Louis/Neuw.,Thaon,1 - 0,16,Grand est
+109,109,Troyes (2),Mulhouse Fc,4 - 2,16,Grand est
+110,110,Nancy (2),Epernay RC,1 - 1,16,Grand est
+111,111,Strasbourg (2),Amnéville,2 - 1,16,Grand est
+112,112,Colmar,Nancy (2),3 - 0,17,Grand est
+113,113,Amnéville,St-Louis/Neuw.,1 - 0,17,Grand est
+114,114,Epernay RC,Raon-l'Étape,2 - 2,17,Grand est
+115,115,Illkirch-Graffen,Troyes (2),1 - 3,17,Grand est
+116,116,Mulhouse Fc,Prix-lès-Méz.,2 - 3,17,Grand est
+117,117,Sarre-Union,Strasbourg (2),0 - 0,17,Grand est
+118,118,Thaon,Biesheim,3 - 0,17,Grand est
+119,119,Strasbourg (2),Raon-l'Étape,2 - 2,18,Grand est
+120,120,Nancy (2),Mulhouse Fc,1 - 2,18,Grand est
+121,121,Troyes (2),Thaon,3 - 1,18,Grand est
+122,122,Biesheim,Amnéville,3 - 1,18,Grand est
+123,123,Colmar,Epernay RC,0 - 0,18,Grand est
+124,124,St-Louis/Neuw.,Sarre-Union,3 - 3,18,Grand est
+125,125,Prix-lès-Méz.,Illkirch-Graffen,0 - 0,18,Grand est
+126,126,Illkirch-Graffen,Nancy (2),1 - 3,19,Grand est
+127,127,Amnéville,Troyes (2),2 - 0,19,Grand est
+128,128,Epernay RC,Strasbourg (2),2 - 0,19,Grand est
+129,129,Mulhouse Fc,Colmar,1 - 1,19,Grand est
+130,130,Sarre-Union,Biesheim,0 - 1,19,Grand est
+131,131,Raon-l'Étape,St-Louis/Neuw.,2 - 1,19,Grand est
+132,132,Thaon,Prix-lès-Méz.,0 - 0,19,Grand est
+133,133,Prix-lès-Méz.,Amnéville,2 - 1,20,Grand est
+134,134,Biesheim,Raon-l'Étape,0 - 2,20,Grand est
+135,135,Troyes (2),Sarre-Union,1 - 0,20,Grand est
+136,136,Colmar,Illkirch-Graffen,3 - 0,20,Grand est
+137,137,Mulhouse Fc,Epernay RC,2 - 0,20,Grand est
+138,138,St-Louis/Neuw.,Strasbourg (2),0 - 2,20,Grand est
+139,139,Nancy (2),Thaon,1 - 2,20,Grand est
+140,140,Raon-l'Étape,Troyes (2),1 - 1,21,Grand est
+141,141,Thaon,Colmar,0 - 1,21,Grand est
+142,142,Amnéville,Nancy (2),0 - 6,21,Grand est
+143,143,Epernay RC,St-Louis/Neuw.,1 - 2,21,Grand est
+144,144,Illkirch-Graffen,Mulhouse Fc,1 - 1,21,Grand est
+145,145,Sarre-Union,Prix-lès-Méz.,3 - 0,21,Grand est
+146,146,Strasbourg (2),Biesheim,0 - 2,21,Grand est
+147,147,Prix-lès-Méz.,Raon-l'Étape,3 - 0,22,Grand est
+148,148,Troyes (2),Strasbourg (2),3 - 1,22,Grand est
+149,149,Biesheim,St-Louis/Neuw.,1 - 0,22,Grand est
+150,150,Colmar,Amnéville,4 - 1,22,Grand est
+151,151,Illkirch-Graffen,Epernay RC,5 - 3,22,Grand est
+152,152,Mulhouse Fc,Thaon,2 - 2,22,Grand est
+153,153,Nancy (2),Sarre-Union,2 - 4,22,Grand est
+154,154,Amnéville,Mulhouse Fc,0 - 6,23,Grand est
+155,155,Epernay RC,Biesheim,1 - 1,23,Grand est
+156,156,Raon-l'Étape,Nancy (2),2 - 2,23,Grand est
+157,157,Sarre-Union,Colmar,4 - 0,23,Grand est
+158,158,St-Louis/Neuw.,Troyes (2),0 - 2,23,Grand est
+159,159,Thaon,Illkirch-Graffen,0 - 1,23,Grand est
+160,160,Strasbourg (2),Prix-lès-Méz.,2 - 0,23,Grand est
+161,161,Colmar,Raon-l'Étape,1 - 2,24,Grand est
+162,162,Illkirch-Graffen,Amnéville,3 - 1,24,Grand est
+163,163,Nancy (2),Strasbourg (2),3 - 1,24,Grand est
+164,164,Troyes (2),Biesheim,6 - 1,24,Grand est
+165,165,Prix-lès-Méz.,St-Louis/Neuw.,2 - 0,24,Grand est
+166,166,Mulhouse Fc,Sarre-Union,5 - 0,24,Grand est
+167,167,Thaon,Epernay RC,0 - 1,24,Grand est
+168,168,Strasbourg (2),Colmar,1 - 0,25,Grand est
+169,169,Biesheim,Prix-lès-Méz.,4 - 0,25,Grand est
+170,170,Raon-l'Étape,Mulhouse Fc,2 - 0,25,Grand est
+171,171,Sarre-Union,Illkirch-Graffen,4 - 2,25,Grand est
+172,172,St-Louis/Neuw.,Nancy (2),1 - 0,25,Grand est
+173,173,Troyes (2),Epernay RC,0 - 0,25,Grand est
+174,174,Amnéville,Thaon,0 - 3,25,Grand est
+175,175,Nancy (2),Biesheim,5 - 2,26,Grand est
+176,176,Prix-lès-Méz.,Troyes (2),0 - 2,26,Grand est
+177,177,Colmar,St-Louis/Neuw.,4 - 2,26,Grand est
+178,178,Epernay RC,Amnéville,6 - 1,26,Grand est
+179,179,Illkirch-Graffen,Raon-l'Étape,2 - 2,26,Grand est
+180,180,Mulhouse Fc,Strasbourg (2),1 - 3,26,Grand est
+181,181,Thaon,Sarre-Union,1 - 3,26,Grand est
+0,0,Agde,Toulouse (2),2 - 1,1,Occitanie
+1,1,Blagnac,Albères/Argelès,3 - 0,1,Occitanie
+2,2,Castanet,Nîmes (2),2 - 0,1,Occitanie
+3,3,Balma,Fabrègues,2 - 0,1,Occitanie
+4,4,Alès,Rodez 2,1 - 2,1,Occitanie
+5,5,Uss Aigues-Mortes,Muret,0 - 0,1,Occitanie
+6,6,FU Narbonne,Beaucaire,1 - 2,1,Occitanie
+7,7,Rodez 2,Blagnac,1 - 2,2,Occitanie
+8,8,Fabrègues,Uss Aigues-Mortes,0 - 2,2,Occitanie
+9,9,Nîmes (2),Agde,0 - 0,2,Occitanie
+10,10,Albères/Argelès,Castanet,2 - 2,2,Occitanie
+11,11,Beaucaire,Toulouse (2),2 - 0,2,Occitanie
+12,12,Muret,Alès,0 - 1,2,Occitanie
+13,13,FU Narbonne,Balma,2 - 0,2,Occitanie
+14,14,Agde,Albères/Argelès,1 - 0,3,Occitanie
+15,15,Blagnac,Muret,2 - 2,3,Occitanie
+16,16,Toulouse (2),Nîmes (2),1 - 1,3,Occitanie
+17,17,Balma,Beaucaire,3 - 0,3,Occitanie
+18,18,Castanet,Rodez 2,2 - 3,3,Occitanie
+19,19,Alès,Fabrègues,3 - 1,3,Occitanie
+20,20,Uss Aigues-Mortes,FU Narbonne,2 - 0,3,Occitanie
+21,21,Rodez 2,Agde,3 - 3,4,Occitanie
+22,22,Balma,Uss Aigues-Mortes,0 - 3,4,Occitanie
+23,23,Albères/Argelès,Toulouse (2),1 - 1,4,Occitanie
+24,24,Beaucaire,Nîmes (2),3 - 0,4,Occitanie
+25,25,Muret,Castanet,0 - 4,4,Occitanie
+26,26,Fabrègues,Blagnac,0 - 4,4,Occitanie
+27,27,FU Narbonne,Alès,2 - 5,4,Occitanie
+28,28,Toulouse (2),Rodez 2,3 - 0,5,Occitanie
+29,29,Agde,Muret,0 - 0,5,Occitanie
+30,30,Blagnac,FU Narbonne,1 - 1,5,Occitanie
+31,31,Castanet,Fabrègues,1 - 2,5,Occitanie
+32,32,Nîmes (2),Albères/Argelès,0 - 2,5,Occitanie
+33,33,Alès,Balma,4 - 0,5,Occitanie
+34,34,Uss Aigues-Mortes,Beaucaire,0 - 0,5,Occitanie
+35,35,FU Narbonne,Castanet,0 - 1,6,Occitanie
+36,36,Balma,Blagnac,1 - 1,6,Occitanie
+37,37,Beaucaire,Albères/Argelès,3 - 0,6,Occitanie
+38,38,Muret,Toulouse (2),2 - 0,6,Occitanie
+39,39,Fabrègues,Agde,0 - 2,6,Occitanie
+40,40,Rodez 2,Nîmes (2),6 - 4,6,Occitanie
+41,41,Uss Aigues-Mortes,Alès,0 - 3,6,Occitanie
+42,42,Nîmes (2),Muret,0 - 1,7,Occitanie
+43,43,Agde,FU Narbonne,2 - 2,7,Occitanie
+44,44,Blagnac,Uss Aigues-Mortes,1 - 3,7,Occitanie
+45,45,Castanet,Balma,1 - 2,7,Occitanie
+46,46,Albères/Argelès,Rodez 2,4 - 4,7,Occitanie
+47,47,Alès,Beaucaire,2 - 0,7,Occitanie
+48,48,Toulouse (2),Fabrègues,2 - 0,7,Occitanie
+49,49,FU Narbonne,Toulouse (2),0 - 4,8,Occitanie
+50,50,Balma,Agde,0 - 1,8,Occitanie
+51,51,Alès,Blagnac,1 - 0,8,Occitanie
+52,52,Beaucaire,Rodez 2,1 - 3,8,Occitanie
+53,53,Muret,Albères/Argelès,1 - 1,8,Occitanie
+54,54,Fabrègues,Nîmes (2),2 - 1,8,Occitanie
+55,55,Uss Aigues-Mortes,Castanet,3 - 1,8,Occitanie
+56,56,Rodez 2,Muret,0 - 2,9,Occitanie
+57,57,Agde,Uss Aigues-Mortes,2 - 0,9,Occitanie
+58,58,Blagnac,Beaucaire,0 - 1,9,Occitanie
+59,59,Nîmes (2),FU Narbonne,1 - 2,9,Occitanie
+60,60,Castanet,Alès,0 - 3,9,Occitanie
+61,61,Albères/Argelès,Fabrègues,3 - 0,9,Occitanie
+62,62,Toulouse (2),Balma,1 - 2,9,Occitanie
+63,63,FU Narbonne,Albères/Argelès,0 - 0,10,Occitanie
+64,64,Balma,Nîmes (2),1 - 0,10,Occitanie
+65,65,Alès,Agde,0 - 1,10,Occitanie
+66,66,Beaucaire,Muret,2 - 2,10,Occitanie
+67,67,Fabrègues,Rodez 2,0 - 1,10,Occitanie
+68,68,Uss Aigues-Mortes,Toulouse (2),2 - 2,10,Occitanie
+69,69,Blagnac,Castanet,2 - 1,10,Occitanie
+70,70,Agde,Blagnac,2 - 1,11,Occitanie
+71,71,Albères/Argelès,Balma,4 - 0,11,Occitanie
+72,72,Muret,Fabrègues,0 - 0,11,Occitanie
+73,73,Rodez 2,FU Narbonne,1 - 2,11,Occitanie
+74,74,Nîmes (2),Uss Aigues-Mortes,3 - 1,11,Occitanie
+75,75,Castanet,Beaucaire,5 - 3,11,Occitanie
+76,76,Toulouse (2),Alès,0 - 2,11,Occitanie
+77,77,Blagnac,Toulouse (2),1 - 1,12,Occitanie
+78,78,FU Narbonne,Muret,3 - 0,12,Occitanie
+79,79,Balma,Rodez 2,2 - 2,12,Occitanie
+80,80,Castanet,Agde,0 - 3,12,Occitanie
+81,81,Alès,Nîmes (2),3 - 1,12,Occitanie
+82,82,Uss Aigues-Mortes,Albères/Argelès,0 - 0,12,Occitanie
+83,83,Beaucaire,Fabrègues,0 - 0,12,Occitanie
+84,84,Nîmes (2),Blagnac,1 - 1,13,Occitanie
+85,85,Muret,Balma,2 - 4,13,Occitanie
+86,86,Fabrègues,FU Narbonne,1 - 0,13,Occitanie
+87,87,Rodez 2,Uss Aigues-Mortes,1 - 1,13,Occitanie
+88,88,Toulouse (2),Castanet,3 - 2,13,Occitanie
+89,89,Beaucaire,Agde,1 - 2,13,Occitanie
+90,90,Albères/Argelès,Alès,2 - 2,13,Occitanie
+91,91,Agde,Nîmes (2),0 - 2,14,Occitanie
+92,92,Blagnac,Rodez 2,2 - 0,14,Occitanie
+93,93,Balma,FU Narbonne,0 - 1,14,Occitanie
+94,94,Alès,Muret,1 - 0,14,Occitanie
+95,95,Toulouse (2),Beaucaire,0 - 1,14,Occitanie
+96,96,Uss Aigues-Mortes,Fabrègues,0 - 0,14,Occitanie
+97,97,Castanet,Albères/Argelès,1 - 0,14,Occitanie
+98,98,Rodez 2,Castanet,1 - 2,15,Occitanie
+99,99,Nîmes (2),Toulouse (2),0 - 2,15,Occitanie
+100,100,Beaucaire,Balma,3 - 0,15,Occitanie
+101,101,FU Narbonne,Uss Aigues-Mortes,3 - 0,15,Occitanie
+102,102,Albères/Argelès,Agde,1 - 0,15,Occitanie
+103,103,Muret,Blagnac,3 - 1,15,Occitanie
+104,104,Fabrègues,Alès,0 - 1,15,Occitanie
+105,105,Agde,Rodez 2,0 - 0,16,Occitanie
+106,106,Blagnac,Fabrègues,3 - 0,16,Occitanie
+107,107,Nîmes (2),Beaucaire,2 - 1,16,Occitanie
+108,108,Castanet,Muret,3 - 0,16,Occitanie
+109,109,Alès,FU Narbonne,0 - 1,16,Occitanie
+110,110,Toulouse (2),Albères/Argelès,3 - 0,16,Occitanie
+111,111,Uss Aigues-Mortes,Balma,0 - 0,16,Occitanie
+112,112,Rodez 2,Toulouse (2),1 - 1,17,Occitanie
+113,113,FU Narbonne,Blagnac,2 - 1,17,Occitanie
+114,114,Balma,Alès,0 - 2,17,Occitanie
+115,115,Albères/Argelès,Nîmes (2),0 - 0,17,Occitanie
+116,116,Muret,Agde,0 - 1,17,Occitanie
+117,117,Fabrègues,Castanet,2 - 0,17,Occitanie
+118,118,Beaucaire,Uss Aigues-Mortes,1 - 2,17,Occitanie
+119,119,Toulouse (2),Muret,2 - 2,18,Occitanie
+120,120,Agde,Fabrègues,2 - 0,18,Occitanie
+121,121,Blagnac,Balma,0 - 1,18,Occitanie
+122,122,Nîmes (2),Rodez 2,1 - 0,18,Occitanie
+123,123,Castanet,FU Narbonne,1 - 1,18,Occitanie
+124,124,Albères/Argelès,Beaucaire,1 - 0,18,Occitanie
+125,125,Alès,Uss Aigues-Mortes,3 - 1,18,Occitanie
+126,126,FU Narbonne,Agde,1 - 1,19,Occitanie
+127,127,Balma,Castanet,1 - 0,19,Occitanie
+128,128,Muret,Nîmes (2),1 - 4,19,Occitanie
+129,129,Beaucaire,Alès,1 - 3,19,Occitanie
+130,130,Fabrègues,Toulouse (2),1 - 5,19,Occitanie
+131,131,Rodez 2,Albères/Argelès,5 - 1,19,Occitanie
+132,132,Uss Aigues-Mortes,Blagnac,3 - 0,19,Occitanie
+133,133,Rodez 2,Beaucaire,3 - 0,20,Occitanie
+134,134,Agde,Balma,0 - 1,20,Occitanie
+135,135,Blagnac,Alès,1 - 3,20,Occitanie
+136,136,Castanet,Uss Aigues-Mortes,0 - 3,20,Occitanie
+137,137,Nîmes (2),Fabrègues,1 - 1,20,Occitanie
+138,138,Albères/Argelès,Muret,1 - 1,20,Occitanie
+139,139,Toulouse (2),FU Narbonne,1 - 0,20,Occitanie
+140,140,Fabrègues,Albères/Argelès,1 - 3,21,Occitanie
+141,141,FU Narbonne,Nîmes (2),2 - 4,21,Occitanie
+142,142,Balma,Toulouse (2),0 - 3,21,Occitanie
+143,143,Alès,Castanet,1 - 0,21,Occitanie
+144,144,Beaucaire,Blagnac,2 - 1,21,Occitanie
+145,145,Muret,Rodez 2,1 - 1,21,Occitanie
+146,146,Uss Aigues-Mortes,Agde,3 - 1,21,Occitanie
+147,147,Rodez 2,Fabrègues,3 - 1,22,Occitanie
+148,148,Agde,Alès,3 - 0,22,Occitanie
+149,149,Castanet,Blagnac,0 - 0,22,Occitanie
+150,150,Nîmes (2),Balma,0 - 0,22,Occitanie
+151,151,Albères/Argelès,FU Narbonne,3 - 0,22,Occitanie
+152,152,Muret,Beaucaire,1 - 3,22,Occitanie
+153,153,Toulouse (2),Uss Aigues-Mortes,2 - 0,22,Occitanie
+154,154,Blagnac,Agde,0 - 0,23,Occitanie
+155,155,Fabrègues,Muret,0 - 0,23,Occitanie
+156,156,FU Narbonne,Rodez 2,3 - 3,23,Occitanie
+157,157,Balma,Albères/Argelès,2 - 2,23,Occitanie
+158,158,Alès,Toulouse (2),1 - 1,23,Occitanie
+159,159,Beaucaire,Castanet,3 - 3,23,Occitanie
+160,160,Uss Aigues-Mortes,Nîmes (2),2 - 0,23,Occitanie
+161,161,Toulouse (2),Blagnac,1 - 1,24,Occitanie
+162,162,Agde,Castanet,0 - 1,24,Occitanie
+163,163,Nîmes (2),Alès,2 - 2,24,Occitanie
+164,164,Albères/Argelès,Uss Aigues-Mortes,3 - 0,24,Occitanie
+165,165,Muret,FU Narbonne,1 - 2,24,Occitanie
+166,166,Fabrègues,Beaucaire,0 - 1,24,Occitanie
+167,167,Rodez 2,Balma,3 - 3,24,Occitanie
+168,168,Agde,Beaucaire,5 - 3,25,Occitanie
+169,169,Alès,Albères/Argelès,2 - 1,25,Occitanie
+170,170,Balma,Muret,4 - 0,25,Occitanie
+171,171,Blagnac,Nîmes (2),2 - 1,25,Occitanie
+172,172,Castanet,Toulouse (2),4 - 2,25,Occitanie
+173,173,FU Narbonne,Fabrègues,1 - 3,25,Occitanie
+174,174,Uss Aigues-Mortes,Rodez 2,4 - 0,25,Occitanie
+175,175,Albères/Argelès,Blagnac,0 - 4,26,Occitanie
+176,176,Beaucaire,FU Narbonne,6 - 1,26,Occitanie
+177,177,Fabrègues,Balma,2 - 2,26,Occitanie
+178,178,Muret,Uss Aigues-Mortes,1 - 5,26,Occitanie
+179,179,Nîmes (2),Castanet,0 - 1,26,Occitanie
+180,180,Rodez 2,Alès,2 - 3,26,Occitanie
+181,181,Toulouse (2),Agde,3 - 2,26,Occitanie
+0,0,Lille 2,Valenciennes 2,5 - 2,1,Hauts de France
+1,1,Boulogne (2),Le Touquet,3 - 0,1,Hauts de France
+2,2,Croix,Amiens AC,0 - 0,1,Hauts de France
+3,3,Maubeuge,Amiens Sc (2),1 - 1,1,Hauts de France
+4,4,St-Omer,Feignies/Auln.,0 - 0,1,Hauts de France
+5,5,O. Marcquois,Vimy,3 - 2,1,Hauts de France
+6,6,Chantilly,Wasquehal,1 - 3,1,Hauts de France
+7,7,Amiens Sc (2),Boulogne (2),1 - 0,2,Hauts de France
+8,8,Chantilly,O. Marcquois,1 - 1,2,Hauts de France
+9,9,Feignies/Auln.,Lille 2,3 - 2,2,Hauts de France
+10,10,Le Touquet,St-Omer,1 - 1,2,Hauts de France
+11,11,Valenciennes 2,Croix,2 - 0,2,Hauts de France
+12,12,Vimy,Maubeuge,0 - 2,2,Hauts de France
+13,13,Wasquehal,Amiens AC,2 - 1,2,Hauts de France
+14,14,Boulogne (2),Vimy,2 - 1,3,Hauts de France
+15,15,Croix,Feignies/Auln.,0 - 3,3,Hauts de France
+16,16,Lille 2,Le Touquet,4 - 0,3,Hauts de France
+17,17,Maubeuge,Chantilly,3 - 2,3,Hauts de France
+18,18,St-Omer,Amiens Sc (2),0 - 0,3,Hauts de France
+19,19,O. Marcquois,Wasquehal,1 - 1,3,Hauts de France
+20,20,Valenciennes 2,Amiens AC,1 - 1,3,Hauts de France
+21,21,Chantilly,Boulogne (2),3 - 0,4,Hauts de France
+22,22,Amiens Sc (2),Lille 2,2 - 2,4,Hauts de France
+23,23,Feignies/Auln.,Amiens AC,0 - 3,4,Hauts de France
+24,24,Le Touquet,Croix,3 - 2,4,Hauts de France
+25,25,Wasquehal,Valenciennes 2,1 - 1,4,Hauts de France
+26,26,O. Marcquois,Maubeuge,2 - 1,4,Hauts de France
+27,27,Vimy,St-Omer,3 - 0,4,Hauts de France
+28,28,Boulogne (2),O. Marcquois,0 - 2,5,Hauts de France
+29,29,Croix,Amiens Sc (2),1 - 0,5,Hauts de France
+30,30,Le Touquet,Amiens AC,2 - 4,5,Hauts de France
+31,31,Lille 2,Vimy,2 - 0,5,Hauts de France
+32,32,Maubeuge,Wasquehal,1 - 2,5,Hauts de France
+33,33,St-Omer,Chantilly,1 - 1,5,Hauts de France
+34,34,Valenciennes 2,Feignies/Auln.,0 - 0,5,Hauts de France
+35,35,Le Touquet,Valenciennes 2,0 - 2,6,Hauts de France
+36,36,Maubeuge,Boulogne (2),1 - 0,6,Hauts de France
+37,37,Wasquehal,Feignies/Auln.,1 - 2,6,Hauts de France
+38,38,O. Marcquois,St-Omer,3 - 0,6,Hauts de France
+39,39,Amiens Sc (2),Amiens AC,2 - 0,6,Hauts de France
+40,40,Chantilly,Lille 2,1 - 3,6,Hauts de France
+41,41,Vimy,Croix,4 - 1,6,Hauts de France
+42,42,Valenciennes 2,Amiens Sc (2),2 - 1,7,Hauts de France
+43,43,Boulogne (2),Wasquehal,1 - 0,7,Hauts de France
+44,44,Croix,Chantilly,3 - 0,7,Hauts de France
+45,45,Feignies/Auln.,Le Touquet,1 - 2,7,Hauts de France
+46,46,Lille 2,O. Marcquois,1 - 0,7,Hauts de France
+47,47,St-Omer,Maubeuge,2 - 2,7,Hauts de France
+48,48,Amiens AC,Vimy,2 - 1,7,Hauts de France
+49,49,Amiens Sc (2),Feignies/Auln.,0 - 2,8,Hauts de France
+50,50,Chantilly,Amiens AC,0 - 0,8,Hauts de France
+51,51,Boulogne (2),St-Omer,1 - 0,8,Hauts de France
+52,52,Maubeuge,Lille 2,2 - 3,8,Hauts de France
+53,53,Wasquehal,Le Touquet,3 - 1,8,Hauts de France
+54,54,O. Marcquois,Croix,0 - 1,8,Hauts de France
+55,55,Vimy,Valenciennes 2,4 - 2,8,Hauts de France
+56,56,Lille 2,Boulogne (2),4 - 0,9,Hauts de France
+57,57,Valenciennes 2,Chantilly,2 - 1,9,Hauts de France
+58,58,Croix,Maubeuge,1 - 2,9,Hauts de France
+59,59,Le Touquet,Amiens Sc (2),1 - 2,9,Hauts de France
+60,60,St-Omer,Wasquehal,1 - 0,9,Hauts de France
+61,61,O. Marcquois,Amiens AC,2 - 1,9,Hauts de France
+62,62,Feignies/Auln.,Vimy,3 - 0,9,Hauts de France
+63,63,Chantilly,Feignies/Auln.,1 - 1,10,Hauts de France
+64,64,Le Touquet,Vimy,2 - 1,10,Hauts de France
+65,65,Boulogne (2),Croix,1 - 0,10,Hauts de France
+66,66,Maubeuge,Amiens AC,3 - 0,10,Hauts de France
+67,67,St-Omer,Lille 2,2 - 0,10,Hauts de France
+68,68,Wasquehal,Amiens Sc (2),4 - 0,10,Hauts de France
+69,69,O. Marcquois,Valenciennes 2,2 - 1,10,Hauts de France
+70,70,Amiens AC,Boulogne (2),3 - 0,11,Hauts de France
+71,71,Feignies/Auln.,O. Marcquois,0 - 3,11,Hauts de France
+72,72,Lille 2,Wasquehal,0 - 1,11,Hauts de France
+73,73,Valenciennes 2,Maubeuge,1 - 2,11,Hauts de France
+74,74,Amiens Sc (2),Vimy,4 - 1,11,Hauts de France
+75,75,Le Touquet,Chantilly,1 - 3,11,Hauts de France
+76,76,Croix,St-Omer,2 - 0,11,Hauts de France
+77,77,Boulogne (2),Valenciennes 2,1 - 2,12,Hauts de France
+78,78,Lille 2,Croix,2 - 1,12,Hauts de France
+79,79,Maubeuge,Feignies/Auln.,2 - 0,12,Hauts de France
+80,80,St-Omer,Amiens AC,1 - 0,12,Hauts de France
+81,81,Wasquehal,Vimy,1 - 1,12,Hauts de France
+82,82,O. Marcquois,Le Touquet,2 - 2,12,Hauts de France
+83,83,Chantilly,Amiens Sc (2),0 - 3,12,Hauts de France
+84,84,Amiens AC,Lille 2,2 - 0,13,Hauts de France
+85,85,Valenciennes 2,St-Omer,2 - 0,13,Hauts de France
+86,86,Amiens Sc (2),O. Marcquois,2 - 2,13,Hauts de France
+87,87,Feignies/Auln.,Boulogne (2),2 - 0,13,Hauts de France
+88,88,Le Touquet,Maubeuge,1 - 0,13,Hauts de France
+89,89,Wasquehal,Croix,3 - 2,13,Hauts de France
+90,90,Vimy,Chantilly,2 - 2,13,Hauts de France
+91,91,Amiens AC,Wasquehal,1 - 3,14,Hauts de France
+92,92,Boulogne (2),Amiens Sc (2),0 - 1,14,Hauts de France
+93,93,Croix,Valenciennes 2,0 - 0,14,Hauts de France
+94,94,Lille 2,Feignies/Auln.,1 - 2,14,Hauts de France
+95,95,Maubeuge,Vimy,2 - 1,14,Hauts de France
+96,96,St-Omer,Le Touquet,0 - 1,14,Hauts de France
+97,97,O. Marcquois,Chantilly,4 - 0,14,Hauts de France
+98,98,Le Touquet,Lille 2,0 - 1,15,Hauts de France
+99,99,Amiens AC,Valenciennes 2,1 - 1,15,Hauts de France
+100,100,Chantilly,Maubeuge,0 - 3,15,Hauts de France
+101,101,Feignies/Auln.,Croix,1 - 0,15,Hauts de France
+102,102,Wasquehal,O. Marcquois,1 - 0,15,Hauts de France
+103,103,Amiens Sc (2),St-Omer,2 - 2,15,Hauts de France
+104,104,Vimy,Boulogne (2),0 - 0,15,Hauts de France
+105,105,Boulogne (2),Chantilly,0 - 1,16,Hauts de France
+106,106,Valenciennes 2,Wasquehal,1 - 3,16,Hauts de France
+107,107,Lille 2,Amiens Sc (2),2 - 1,16,Hauts de France
+108,108,Amiens AC,Feignies/Auln.,0 - 0,16,Hauts de France
+109,109,Croix,Le Touquet,3 - 1,16,Hauts de France
+110,110,Maubeuge,O. Marcquois,0 - 1,16,Hauts de France
+111,111,St-Omer,Vimy,2 - 0,16,Hauts de France
+112,112,Amiens AC,Le Touquet,2 - 0,17,Hauts de France
+113,113,Amiens Sc (2),Croix,3 - 2,17,Hauts de France
+114,114,Feignies/Auln.,Valenciennes 2,3 - 2,17,Hauts de France
+115,115,Wasquehal,Maubeuge,1 - 0,17,Hauts de France
+116,116,O. Marcquois,Boulogne (2),3 - 0,17,Hauts de France
+117,117,Chantilly,St-Omer,2 - 0,17,Hauts de France
+118,118,Vimy,Lille 2,1 - 0,17,Hauts de France
+119,119,Amiens AC,Amiens Sc (2),2 - 1,18,Hauts de France
+120,120,Valenciennes 2,Le Touquet,4 - 2,18,Hauts de France
+121,121,Boulogne (2),Maubeuge,2 - 0,18,Hauts de France
+122,122,Croix,Vimy,1 - 2,18,Hauts de France
+123,123,Feignies/Auln.,Wasquehal,1 - 0,18,Hauts de France
+124,124,Lille 2,Chantilly,2 - 0,18,Hauts de France
+125,125,St-Omer,O. Marcquois,0 - 0,18,Hauts de France
+126,126,Amiens Sc (2),Valenciennes 2,1 - 2,19,Hauts de France
+127,127,Vimy,Amiens AC,1 - 0,19,Hauts de France
+128,128,Le Touquet,Feignies/Auln.,0 - 2,19,Hauts de France
+129,129,Maubeuge,St-Omer,4 - 1,19,Hauts de France
+130,130,Wasquehal,Boulogne (2),3 - 1,19,Hauts de France
+131,131,O. Marcquois,Lille 2,2 - 1,19,Hauts de France
+132,132,Chantilly,Croix,2 - 2,19,Hauts de France
+133,133,Valenciennes 2,Vimy,3 - 1,20,Hauts de France
+134,134,Lille 2,Maubeuge,0 - 1,20,Hauts de France
+135,135,Croix,O. Marcquois,2 - 1,20,Hauts de France
+136,136,Feignies/Auln.,Amiens Sc (2),2 - 1,20,Hauts de France
+137,137,Le Touquet,Wasquehal,1 - 1,20,Hauts de France
+138,138,St-Omer,Boulogne (2),2 - 0,20,Hauts de France
+139,139,Amiens AC,Chantilly,2 - 1,20,Hauts de France
+140,140,Amiens Sc (2),Le Touquet,5 - 3,21,Hauts de France
+141,141,Amiens AC,O. Marcquois,0 - 1,21,Hauts de France
+142,142,Boulogne (2),Lille 2,0 - 0,21,Hauts de France
+143,143,Vimy,Feignies/Auln.,1 - 1,21,Hauts de France
+144,144,Wasquehal,St-Omer,1 - 1,21,Hauts de France
+145,145,Maubeuge,Croix,2 - 2,21,Hauts de France
+146,146,Chantilly,Valenciennes 2,1 - 0,21,Hauts de France
+147,147,Amiens Sc (2),Wasquehal,0 - 2,22,Hauts de France
+148,148,Amiens AC,Maubeuge,2 - 0,22,Hauts de France
+149,149,Croix,Boulogne (2),1 - 0,22,Hauts de France
+150,150,Feignies/Auln.,Chantilly,3 - 0,22,Hauts de France
+151,151,Lille 2,St-Omer,0 - 1,22,Hauts de France
+152,152,Valenciennes 2,O. Marcquois,1 - 0,22,Hauts de France
+153,153,Vimy,Le Touquet,2 - 0,22,Hauts de France
+154,154,Boulogne (2),Amiens AC,2 - 2,23,Hauts de France
+155,155,Maubeuge,Valenciennes 2,1 - 1,23,Hauts de France
+156,156,St-Omer,Croix,0 - 4,23,Hauts de France
+157,157,Vimy,Amiens Sc (2),2 - 0,23,Hauts de France
+158,158,Wasquehal,Lille 2,2 - 1,23,Hauts de France
+159,159,O. Marcquois,Feignies/Auln.,1 - 1,23,Hauts de France
+160,160,Chantilly,Le Touquet,3 - 0,23,Hauts de France
+161,161,Valenciennes 2,Boulogne (2),1 - 3,24,Hauts de France
+162,162,Amiens AC,St-Omer,2 - 1,24,Hauts de France
+163,163,Amiens Sc (2),Chantilly,0 - 1,24,Hauts de France
+164,164,Croix,Lille 2,1 - 3,24,Hauts de France
+165,165,Feignies/Auln.,Maubeuge,1 - 1,24,Hauts de France
+166,166,Le Touquet,O. Marcquois,3 - 3,24,Hauts de France
+167,167,Vimy,Wasquehal,0 - 1,24,Hauts de France
+168,168,Boulogne (2),Feignies/Auln.,0 - 2,25,Hauts de France
+169,169,Chantilly,Vimy,1 - 0,25,Hauts de France
+170,170,Croix,Wasquehal,2 - 1,25,Hauts de France
+171,171,Lille 2,Amiens AC,0 - 0,25,Hauts de France
+172,172,Maubeuge,Le Touquet,2 - 2,25,Hauts de France
+173,173,O. Marcquois,Amiens Sc (2),2 - 3,25,Hauts de France
+174,174,St-Omer,Valenciennes 2,2 - 1,25,Hauts de France
+175,175,Amiens AC,Croix,1 - 0,26,Hauts de France
+176,176,Amiens Sc (2),Maubeuge,3 - 2,26,Hauts de France
+177,177,Feignies/Auln.,St-Omer,1 - 0,26,Hauts de France
+178,178,Le Touquet,Boulogne (2),0 - 3,26,Hauts de France
+179,179,Valenciennes 2,Lille 2,2 - 4,26,Hauts de France
+180,180,Vimy,O. Marcquois,2 - 1,26,Hauts de France
+181,181,Wasquehal,Chantilly,5 - 1,26,Hauts de France
+0,0,Le Havre 2,Oissel,1 - 1,1,Normandie
+1,1,A.F. Virois,Bayeux,3 - 0,1,Normandie
+2,2,AG Caen,Dives-Cabourg,0 - 3,1,Normandie
+3,3,Alençon,Évreux,2 - 1,1,Normandie
+4,4,Cherbourg,Saint-Lô,2 - 3,1,Normandie
+5,5,Romilly/Pont St-P.,Dieppe,0 - 0,1,Normandie
+6,6,Us Quevilly (2),Avranches (2),0 - 0,1,Normandie
+7,7,Évreux,Le Havre 2,2 - 0,2,Normandie
+8,8,Alençon,Cherbourg,1 - 1,2,Normandie
+9,9,Avranches (2),Saint-Lô,0 - 2,2,Normandie
+10,10,Bayeux,AG Caen,0 - 0,2,Normandie
+11,11,Dieppe,A.F. Virois,3 - 1,2,Normandie
+12,12,Dives-Cabourg,Us Quevilly (2),0 - 1,2,Normandie
+13,13,Oissel,Romilly/Pont St-P.,2 - 1,2,Normandie
+14,14,Le Havre 2,Alençon,1 - 2,3,Normandie
+15,15,Romilly/Pont St-P.,Évreux,1 - 2,3,Normandie
+16,16,A.F. Virois,Oissel,2 - 2,3,Normandie
+17,17,AG Caen,Dieppe,0 - 1,3,Normandie
+18,18,Cherbourg,Avranches (2),1 - 2,3,Normandie
+19,19,Saint-Lô,Dives-Cabourg,0 - 0,3,Normandie
+20,20,Us Quevilly (2),Bayeux,0 - 2,3,Normandie
+21,21,Le Havre 2,Cherbourg,0 - 0,4,Normandie
+22,22,Alençon,Romilly/Pont St-P.,4 - 2,4,Normandie
+23,23,Bayeux,Saint-Lô,0 - 1,4,Normandie
+24,24,Dieppe,Us Quevilly (2),2 - 1,4,Normandie
+25,25,Oissel,AG Caen,3 - 1,4,Normandie
+26,26,Dives-Cabourg,Avranches (2),2 - 2,4,Normandie
+27,27,Évreux,A.F. Virois,2 - 1,4,Normandie
+28,28,Romilly/Pont St-P.,Le Havre 2,1 - 0,5,Normandie
+29,29,A.F. Virois,Alençon,1 - 1,5,Normandie
+30,30,Avranches (2),Bayeux,3 - 0,5,Normandie
+31,31,Cherbourg,Dives-Cabourg,3 - 0,5,Normandie
+32,32,Saint-Lô,Dieppe,2 - 2,5,Normandie
+33,33,Us Quevilly (2),Oissel,0 - 2,5,Normandie
+34,34,AG Caen,Évreux,2 - 2,5,Normandie
+35,35,Le Havre 2,A.F. Virois,7 - 0,6,Normandie
+36,36,Alençon,AG Caen,1 - 1,6,Normandie
+37,37,Bayeux,Dives-Cabourg,1 - 3,6,Normandie
+38,38,Dieppe,Avranches (2),2 - 0,6,Normandie
+39,39,Oissel,Saint-Lô,3 - 0,6,Normandie
+40,40,Évreux,Us Quevilly (2),0 - 1,6,Normandie
+41,41,Romilly/Pont St-P.,Cherbourg,3 - 2,6,Normandie
+42,42,A.F. Virois,Romilly/Pont St-P.,3 - 4,7,Normandie
+43,43,AG Caen,Le Havre 2,1 - 2,7,Normandie
+44,44,Avranches (2),Oissel,0 - 0,7,Normandie
+45,45,Cherbourg,Bayeux,1 - 1,7,Normandie
+46,46,Saint-Lô,Évreux,1 - 1,7,Normandie
+47,47,Dives-Cabourg,Dieppe,0 - 1,7,Normandie
+48,48,Us Quevilly (2),Alençon,1 - 1,7,Normandie
+49,49,Le Havre 2,Us Quevilly (2),2 - 0,8,Normandie
+50,50,Romilly/Pont St-P.,AG Caen,1 - 3,8,Normandie
+51,51,A.F. Virois,Cherbourg,3 - 0,8,Normandie
+52,52,Alençon,Saint-Lô,3 - 0,8,Normandie
+53,53,Dieppe,Bayeux,2 - 0,8,Normandie
+54,54,Oissel,Dives-Cabourg,2 - 2,8,Normandie
+55,55,Évreux,Avranches (2),5 - 0,8,Normandie
+56,56,Avranches (2),Alençon,0 - 3,9,Normandie
+57,57,Cherbourg,Dieppe,1 - 2,9,Normandie
+58,58,Saint-Lô,Le Havre 2,1 - 1,9,Normandie
+59,59,Évreux,Dives-Cabourg,2 - 1,9,Normandie
+60,60,Us Quevilly (2),Romilly/Pont St-P.,4 - 0,9,Normandie
+61,61,Bayeux,Oissel,1 - 2,9,Normandie
+62,62,AG Caen,A.F. Virois,1 - 6,9,Normandie
+63,63,A.F. Virois,Us Quevilly (2),1 - 1,10,Normandie
+64,64,AG Caen,Cherbourg,3 - 2,10,Normandie
+65,65,Alençon,Dives-Cabourg,2 - 1,10,Normandie
+66,66,Évreux,Bayeux,3 - 0,10,Normandie
+67,67,Le Havre 2,Avranches (2),1 - 1,10,Normandie
+68,68,Romilly/Pont St-P.,Saint-Lô,0 - 3,10,Normandie
+69,69,Oissel,Dieppe,1 - 0,10,Normandie
+70,70,Avranches (2),Romilly/Pont St-P.,0 - 0,11,Normandie
+71,71,Bayeux,Alençon,1 - 2,11,Normandie
+72,72,Dieppe,Évreux,1 - 5,11,Normandie
+73,73,Saint-Lô,A.F. Virois,3 - 3,11,Normandie
+74,74,Dives-Cabourg,Le Havre 2,1 - 0,11,Normandie
+75,75,Cherbourg,Oissel,2 - 3,11,Normandie
+76,76,Us Quevilly (2),AG Caen,1 - 1,11,Normandie
+77,77,AG Caen,Saint-Lô,8 - 4,12,Normandie
+78,78,Alençon,Dieppe,0 - 1,12,Normandie
+79,79,Bayeux,Le Havre 2,0 - 0,12,Normandie
+80,80,Évreux,Oissel,2 - 0,12,Normandie
+81,81,Romilly/Pont St-P.,Dives-Cabourg,2 - 0,12,Normandie
+82,82,Us Quevilly (2),Cherbourg,2 - 1,12,Normandie
+83,83,A.F. Virois,Avranches (2),4 - 0,12,Normandie
+84,84,Avranches (2),AG Caen,3 - 1,13,Normandie
+85,85,Bayeux,Romilly/Pont St-P.,1 - 1,13,Normandie
+86,86,Dieppe,Le Havre 2,1 - 0,13,Normandie
+87,87,Dives-Cabourg,A.F. Virois,1 - 3,13,Normandie
+88,88,Oissel,Alençon,1 - 1,13,Normandie
+89,89,Saint-Lô,Us Quevilly (2),1 - 1,13,Normandie
+90,90,Évreux,Cherbourg,2 - 0,13,Normandie
+91,91,Le Havre 2,Évreux,0 - 1,14,Normandie
+92,92,A.F. Virois,Dieppe,0 - 4,14,Normandie
+93,93,AG Caen,Bayeux,2 - 1,14,Normandie
+94,94,Cherbourg,Alençon,0 - 2,14,Normandie
+95,95,Saint-Lô,Avranches (2),1 - 0,14,Normandie
+96,96,Romilly/Pont St-P.,Oissel,0 - 1,14,Normandie
+97,97,Us Quevilly (2),Dives-Cabourg,3 - 0,14,Normandie
+98,98,Alençon,Le Havre 2,1 - 3,15,Normandie
+99,99,Bayeux,Us Quevilly (2),1 - 2,15,Normandie
+100,100,Dieppe,AG Caen,1 - 0,15,Normandie
+101,101,Oissel,A.F. Virois,0 - 0,15,Normandie
+102,102,Avranches (2),Cherbourg,1 - 3,15,Normandie
+103,103,Dives-Cabourg,Saint-Lô,2 - 1,15,Normandie
+104,104,Évreux,Romilly/Pont St-P.,4 - 1,15,Normandie
+105,105,A.F. Virois,Évreux,3 - 4,16,Normandie
+106,106,AG Caen,Oissel,1 - 2,16,Normandie
+107,107,Cherbourg,Le Havre 2,0 - 3,16,Normandie
+108,108,Saint-Lô,Bayeux,2 - 1,16,Normandie
+109,109,Avranches (2),Dives-Cabourg,2 - 1,16,Normandie
+110,110,Romilly/Pont St-P.,Alençon,1 - 1,16,Normandie
+111,111,Us Quevilly (2),Dieppe,5 - 2,16,Normandie
+112,112,Le Havre 2,Romilly/Pont St-P.,3 - 0,17,Normandie
+113,113,Alençon,A.F. Virois,0 - 1,17,Normandie
+114,114,Bayeux,Avranches (2),1 - 4,17,Normandie
+115,115,Dieppe,Saint-Lô,1 - 2,17,Normandie
+116,116,Évreux,AG Caen,2 - 1,17,Normandie
+117,117,Oissel,Us Quevilly (2),2 - 1,17,Normandie
+118,118,Dives-Cabourg,Cherbourg,0 - 2,17,Normandie
+119,119,A.F. Virois,Le Havre 2,0 - 1,18,Normandie
+120,120,AG Caen,Alençon,1 - 2,18,Normandie
+121,121,Avranches (2),Dieppe,1 - 0,18,Normandie
+122,122,Cherbourg,Romilly/Pont St-P.,2 - 1,18,Normandie
+123,123,Saint-Lô,Oissel,0 - 0,18,Normandie
+124,124,Dives-Cabourg,Bayeux,2 - 0,18,Normandie
+125,125,Us Quevilly (2),Évreux,0 - 8,18,Normandie
+126,126,Le Havre 2,AG Caen,2 - 2,19,Normandie
+127,127,Romilly/Pont St-P.,A.F. Virois,0 - 3,19,Normandie
+128,128,Alençon,Us Quevilly (2),0 - 0,19,Normandie
+129,129,Bayeux,Cherbourg,0 - 1,19,Normandie
+130,130,Dieppe,Dives-Cabourg,3 - 2,19,Normandie
+131,131,Oissel,Avranches (2),1 - 1,19,Normandie
+132,132,Évreux,Saint-Lô,3 - 0,19,Normandie
+133,133,Us Quevilly (2),Le Havre 2,1 - 0,20,Normandie
+134,134,Avranches (2),Évreux,1 - 3,20,Normandie
+135,135,Bayeux,Dieppe,1 - 2,20,Normandie
+136,136,Cherbourg,A.F. Virois,2 - 2,20,Normandie
+137,137,Saint-Lô,Alençon,1 - 0,20,Normandie
+138,138,Dives-Cabourg,Oissel,0 - 1,20,Normandie
+139,139,AG Caen,Romilly/Pont St-P.,5 - 0,20,Normandie
+140,140,Le Havre 2,Saint-Lô,4 - 1,21,Normandie
+141,141,A.F. Virois,AG Caen,3 - 2,21,Normandie
+142,142,Alençon,Avranches (2),1 - 1,21,Normandie
+143,143,Dieppe,Cherbourg,1 - 0,21,Normandie
+144,144,Oissel,Bayeux,3 - 0,21,Normandie
+145,145,Dives-Cabourg,Évreux,0 - 2,21,Normandie
+146,146,Romilly/Pont St-P.,Us Quevilly (2),0 - 0,21,Normandie
+147,147,Us Quevilly (2),A.F. Virois,1 - 3,22,Normandie
+148,148,Avranches (2),Le Havre 2,2 - 2,22,Normandie
+149,149,Bayeux,Évreux,0 - 5,22,Normandie
+150,150,Cherbourg,AG Caen,2 - 2,22,Normandie
+151,151,Dieppe,Oissel,1 - 2,22,Normandie
+152,152,Saint-Lô,Romilly/Pont St-P.,4 - 0,22,Normandie
+153,153,Dives-Cabourg,Alençon,2 - 0,22,Normandie
+154,154,AG Caen,Us Quevilly (2),3 - 2,23,Normandie
+155,155,Le Havre 2,Dives-Cabourg,1 - 3,23,Normandie
+156,156,A.F. Virois,Saint-Lô,0 - 0,23,Normandie
+157,157,Alençon,Bayeux,2 - 0,23,Normandie
+158,158,Oissel,Cherbourg,1 - 1,23,Normandie
+159,159,Romilly/Pont St-P.,Avranches (2),1 - 1,23,Normandie
+160,160,Évreux,Dieppe,4 - 1,23,Normandie
+161,161,Avranches (2),A.F. Virois,1 - 1,24,Normandie
+162,162,Le Havre 2,Bayeux,4 - 0,24,Normandie
+163,163,Cherbourg,Us Quevilly (2),2 - 1,24,Normandie
+164,164,Dieppe,Alençon,1 - 0,24,Normandie
+165,165,Oissel,Évreux,3 - 3,24,Normandie
+166,166,Saint-Lô,AG Caen,1 - 1,24,Normandie
+167,167,Dives-Cabourg,Romilly/Pont St-P.,3 - 1,24,Normandie
+168,168,A.F. Virois,Dives-Cabourg,5 - 3,25,Normandie
+169,169,AG Caen,Avranches (2),2 - 0,25,Normandie
+170,170,Alençon,Oissel,2 - 0,25,Normandie
+171,171,Cherbourg,Évreux,1 - 0,25,Normandie
+172,172,Le Havre 2,Dieppe,3 - 1,25,Normandie
+173,173,Romilly/Pont St-P.,Bayeux,0 - 5,25,Normandie
+174,174,Us Quevilly (2),Saint-Lô,3 - 0,25,Normandie
+175,175,Avranches (2),Us Quevilly (2),2 - 2,26,Normandie
+176,176,Bayeux,A.F. Virois,1 - 1,26,Normandie
+177,177,Dieppe,Romilly/Pont St-P.,2 - 1,26,Normandie
+178,178,Dives-Cabourg,AG Caen,3 - 1,26,Normandie
+179,179,Saint-Lô,Cherbourg,1 - 2,26,Normandie
+180,180,Oissel,Le Havre 2,3 - 0    (Forfait),26,Normandie
+181,181,Évreux,Alençon,1 - 3,26,Normandie
+0,0,Fougères,Dinan/Lehon,0 - 0,1,Bretagne
+1,1,Guipry/Messac,Plouzané,2 - 2,1,Bretagne
+2,2,Pontivy,Lannion,4 - 0,1,Bretagne
+3,3,Saint-P. Milizac,Pontivy,0 - 0,1,Bretagne
+4,4,St-Brieuc 2,Brest (2),1 - 3,1,Bretagne
+5,5,TA Rennes,Locminé,1 - 0,1,Bretagne
+6,6,Tregunc,Stade Rennais 2,0 - 3,1,Bretagne
+7,7,Dinan/Lehon,Stade Rennais 2,1 - 1,2,Bretagne
+8,8,Guipry/Messac,St-Brieuc 2,0 - 1,2,Bretagne
+9,9,Lannion,Brest (2),0 - 3,2,Bretagne
+10,10,Locminé,Saint-P. Milizac,2 - 0,2,Bretagne
+11,11,Pontivy,Fougères,1 - 2,2,Bretagne
+12,12,TA Rennes,Pontivy,1 - 1,2,Bretagne
+13,13,Plouzané,Tregunc,0 - 1,2,Bretagne
+14,14,Saint-P. Milizac,TA Rennes,2 - 0,3,Bretagne
+15,15,Brest (2),Plouzané,2 - 2,3,Bretagne
+16,16,Lannion,Locminé,2 - 1,3,Bretagne
+17,17,Pontivy,Dinan/Lehon,1 - 1,3,Bretagne
+18,18,Stade Rennais 2,Guipry/Messac,4 - 0,3,Bretagne
+19,19,St-Brieuc 2,Pontivy,0 - 0,3,Bretagne
+20,20,Tregunc,Fougères,0 - 3,3,Bretagne
+21,21,Fougères,Saint-P. Milizac,0 - 1,4,Bretagne
+22,22,Guipry/Messac,Brest (2),1 - 3,4,Bretagne
+23,23,Locminé,Dinan/Lehon,1 - 1,4,Bretagne
+24,24,Pontivy,Tregunc,3 - 0,4,Bretagne
+25,25,St-Brieuc 2,Pontivy,5 - 0,4,Bretagne
+26,26,TA Rennes,Stade Rennais 2,3 - 1,4,Bretagne
+27,27,Plouzané,Lannion,1 - 0,4,Bretagne
+28,28,Stade Rennais 2,Fougères,1 - 0,5,Bretagne
+29,29,Brest (2),TA Rennes,2 - 1,5,Bretagne
+30,30,Dinan/Lehon,Plouzané,1 - 1,5,Bretagne
+31,31,Lannion,Guipry/Messac,7 - 0,5,Bretagne
+32,32,Pontivy,Locminé,1 - 0,5,Bretagne
+33,33,Saint-P. Milizac,Pontivy,1 - 2,5,Bretagne
+34,34,Tregunc,St-Brieuc 2,1 - 7,5,Bretagne
+35,35,Fougères,Brest (2),3 - 1,6,Bretagne
+36,36,Guipry/Messac,Dinan/Lehon,0 - 0,6,Bretagne
+37,37,Pontivy,Stade Rennais 2,0 - 2,6,Bretagne
+38,38,St-Brieuc 2,Saint-P. Milizac,0 - 0,6,Bretagne
+39,39,TA Rennes,Lannion,2 - 2,6,Bretagne
+40,40,Plouzané,Locminé,0 - 1,6,Bretagne
+41,41,Tregunc,Pontivy,0 - 5,6,Bretagne
+42,42,Stade Rennais 2,St-Brieuc 2,3 - 5,7,Bretagne
+43,43,Brest (2),Pontivy,2 - 2,7,Bretagne
+44,44,Dinan/Lehon,TA Rennes,2 - 1,7,Bretagne
+45,45,Lannion,Fougères,0 - 2,7,Bretagne
+46,46,Locminé,Guipry/Messac,3 - 1,7,Bretagne
+47,47,Pontivy,Plouzané,1 - 1,7,Bretagne
+48,48,Saint-P. Milizac,Tregunc,4 - 1,7,Bretagne
+49,49,Stade Rennais 2,Saint-P. Milizac,2 - 1,8,Bretagne
+50,50,Dinan/Lehon,Pontivy,0 - 1,8,Bretagne
+51,51,Lannion,St-Brieuc 2,2 - 1,8,Bretagne
+52,52,Locminé,Fougères,0 - 2,8,Bretagne
+53,53,Pontivy,Guipry/Messac,2 - 0,8,Bretagne
+54,54,Brest (2),Tregunc,6 - 0,8,Bretagne
+55,55,Plouzané,TA Rennes,0 - 0,8,Bretagne
+56,56,Fougères,Plouzané,2 - 0,9,Bretagne
+57,57,Pontivy,Locminé,0 - 3,9,Bretagne
+58,58,Saint-P. Milizac,Brest (2),5 - 0,9,Bretagne
+59,59,Stade Rennais 2,Pontivy,2 - 1,9,Bretagne
+60,60,St-Brieuc 2,Dinan/Lehon,0 - 5,9,Bretagne
+61,61,TA Rennes,Guipry/Messac,2 - 1,9,Bretagne
+62,62,Tregunc,Lannion,1 - 2,9,Bretagne
+63,63,Brest (2),Stade Rennais 2,0 - 2,10,Bretagne
+64,64,Pontivy,TA Rennes,2 - 0,10,Bretagne
+65,65,Dinan/Lehon,Tregunc,5 - 0,10,Bretagne
+66,66,Guipry/Messac,Fougères,2 - 2,10,Bretagne
+67,67,Lannion,Saint-P. Milizac,2 - 2,10,Bretagne
+68,68,Locminé,St-Brieuc 2,1 - 1,10,Bretagne
+69,69,Plouzané,Pontivy,0 - 1,10,Bretagne
+70,70,Stade Rennais 2,Lannion,1 - 2,11,Bretagne
+71,71,Fougères,TA Rennes,1 - 2,11,Bretagne
+72,72,Pontivy,Guipry/Messac,0 - 0,11,Bretagne
+73,73,Brest (2),Pontivy,4 - 0,11,Bretagne
+74,74,Plouzané,St-Brieuc 2,3 - 1,11,Bretagne
+75,75,Tregunc,Locminé,0 - 7,11,Bretagne
+76,76,Saint-P. Milizac,Dinan/Lehon,2 - 0,11,Bretagne
+77,77,Pontivy,Fougères,1 - 0,12,Bretagne
+78,78,Saint-P. Milizac,Plouzané,2 - 0,12,Bretagne
+79,79,Stade Rennais 2,Locminé,1 - 1,12,Bretagne
+80,80,St-Brieuc 2,TA Rennes,3 - 2,12,Bretagne
+81,81,Brest (2),Dinan/Lehon,0 - 2,12,Bretagne
+82,82,Tregunc,Guipry/Messac,1 - 2,12,Bretagne
+83,83,Lannion,Pontivy,2 - 3,12,Bretagne
+84,84,Dinan/Lehon,Lannion,1 - 0,13,Bretagne
+85,85,Fougères,St-Brieuc 2,0 - 0,13,Bretagne
+86,86,Guipry/Messac,Saint-P. Milizac,3 - 5,13,Bretagne
+87,87,Locminé,Brest (2),1 - 1,13,Bretagne
+88,88,Plouzané,Stade Rennais 2,2 - 1,13,Bretagne
+89,89,Pontivy,Pontivy,3 - 2,13,Bretagne
+90,90,TA Rennes,Tregunc,3 - 2,13,Bretagne
+91,91,Stade Rennais 2,Tregunc,6 - 0,14,Bretagne
+92,92,Dinan/Lehon,Fougères,1 - 2,14,Bretagne
+93,93,Lannion,Pontivy,3 - 1,14,Bretagne
+94,94,Locminé,TA Rennes,3 - 0,14,Bretagne
+95,95,Pontivy,Saint-P. Milizac,2 - 2,14,Bretagne
+96,96,Brest (2),St-Brieuc 2,0 - 3,14,Bretagne
+97,97,Plouzané,Guipry/Messac,2 - 0,14,Bretagne
+98,98,Fougères,Pontivy,4 - 1,15,Bretagne
+99,99,Pontivy,TA Rennes,1 - 2,15,Bretagne
+100,100,Saint-P. Milizac,Locminé,3 - 2,15,Bretagne
+101,101,Stade Rennais 2,Dinan/Lehon,3 - 1,15,Bretagne
+102,102,St-Brieuc 2,Guipry/Messac,1 - 1,15,Bretagne
+103,103,Tregunc,Plouzané,0 - 2,15,Bretagne
+104,104,Brest (2),Lannion,3 - 3,15,Bretagne
+105,105,Dinan/Lehon,Pontivy,3 - 0,16,Bretagne
+106,106,Fougères,Tregunc,10 - 2,16,Bretagne
+107,107,Guipry/Messac,Stade Rennais 2,4 - 7,16,Bretagne
+108,108,Locminé,Lannion,3 - 0,16,Bretagne
+109,109,Plouzané,Brest (2),0 - 4,16,Bretagne
+110,110,Pontivy,St-Brieuc 2,2 - 4,16,Bretagne
+111,111,TA Rennes,Saint-P. Milizac,3 - 1,16,Bretagne
+112,112,Stade Rennais 2,TA Rennes,1 - 1,17,Bretagne
+113,113,Brest (2),Guipry/Messac,2 - 0,17,Bretagne
+114,114,Dinan/Lehon,Locminé,1 - 1,17,Bretagne
+115,115,Lannion,Plouzané,4 - 1,17,Bretagne
+116,116,Pontivy,St-Brieuc 2,1 - 1,17,Bretagne
+117,117,Saint-P. Milizac,Fougères,2 - 0,17,Bretagne
+118,118,Tregunc,Pontivy,0 - 4,17,Bretagne
+119,119,Fougères,Stade Rennais 2,4 - 3,18,Bretagne
+120,120,Guipry/Messac,Lannion,1 - 2,18,Bretagne
+121,121,Locminé,Pontivy,4 - 0,18,Bretagne
+122,122,Pontivy,Saint-P. Milizac,0 - 2,18,Bretagne
+123,123,St-Brieuc 2,Tregunc,4 - 3,18,Bretagne
+124,124,TA Rennes,Brest (2),1 - 5,18,Bretagne
+125,125,Plouzané,Dinan/Lehon,1 - 5,18,Bretagne
+126,126,Stade Rennais 2,Pontivy,4 - 0,19,Bretagne
+127,127,Dinan/Lehon,Guipry/Messac,4 - 0,19,Bretagne
+128,128,Lannion,TA Rennes,2 - 1,19,Bretagne
+129,129,Locminé,Plouzané,4 - 0,19,Bretagne
+130,130,Pontivy,Tregunc,4 - 1,19,Bretagne
+131,131,Saint-P. Milizac,St-Brieuc 2,3 - 1,19,Bretagne
+132,132,Brest (2),Fougères,3 - 2,19,Bretagne
+133,133,Fougères,Lannion,0 - 4,20,Bretagne
+134,134,Guipry/Messac,Locminé,2 - 2,20,Bretagne
+135,135,Pontivy,Brest (2),1 - 0,20,Bretagne
+136,136,St-Brieuc 2,Stade Rennais 2,1 - 0,20,Bretagne
+137,137,TA Rennes,Dinan/Lehon,0 - 1,20,Bretagne
+138,138,Plouzané,Pontivy,3 - 0,20,Bretagne
+139,139,Tregunc,Saint-P. Milizac,1 - 2,20,Bretagne
+140,140,Tregunc,Brest (2),0 - 5,21,Bretagne
+141,141,Fougères,Locminé,1 - 2,21,Bretagne
+142,142,Guipry/Messac,Pontivy,3 - 2,21,Bretagne
+143,143,Pontivy,Dinan/Lehon,2 - 1,21,Bretagne
+144,144,Saint-P. Milizac,Stade Rennais 2,0 - 2,21,Bretagne
+145,145,St-Brieuc 2,Lannion,1 - 1,21,Bretagne
+146,146,TA Rennes,Plouzané,0 - 0,21,Bretagne
+147,147,Dinan/Lehon,St-Brieuc 2,4 - 2,22,Bretagne
+148,148,Guipry/Messac,TA Rennes,1 - 1,22,Bretagne
+149,149,Lannion,Tregunc,6 - 0,22,Bretagne
+150,150,Locminé,Pontivy,3 - 3,22,Bretagne
+151,151,Pontivy,Stade Rennais 2,1 - 1,22,Bretagne
+152,152,Brest (2),Saint-P. Milizac,2 - 2,22,Bretagne
+153,153,Plouzané,Fougères,2 - 3,22,Bretagne
+154,154,Stade Rennais 2,Brest (2),2 - 3,23,Bretagne
+155,155,Fougères,Guipry/Messac,3 - 2,23,Bretagne
+156,156,Pontivy,Plouzané,2 - 1,23,Bretagne
+157,157,Saint-P. Milizac,Lannion,1 - 1,23,Bretagne
+158,158,St-Brieuc 2,Locminé,3 - 2,23,Bretagne
+159,159,TA Rennes,Pontivy,4 - 0,23,Bretagne
+160,160,Tregunc,Dinan/Lehon,1 - 1,23,Bretagne
+161,161,Dinan/Lehon,Saint-P. Milizac,1 - 1,24,Bretagne
+162,162,Guipry/Messac,Pontivy,1 - 4,24,Bretagne
+163,163,Lannion,Stade Rennais 2,0 - 1,24,Bretagne
+164,164,Locminé,Tregunc,6 - 2,24,Bretagne
+165,165,Pontivy,Brest (2),4 - 1,24,Bretagne
+166,166,St-Brieuc 2,Plouzané,5 - 1,24,Bretagne
+167,167,TA Rennes,Fougères,0 - 1,24,Bretagne
+168,168,Dinan/Lehon,Brest (2),2 - 4,25,Bretagne
+169,169,Pontivy,Lannion,3 - 1,25,Bretagne
+170,170,Fougères,Pontivy,2 - 0,25,Bretagne
+171,171,Guipry/Messac,Tregunc,4 - 1,25,Bretagne
+172,172,Locminé,Stade Rennais 2,1 - 3,25,Bretagne
+173,173,Plouzané,Saint-P. Milizac,2 - 5,25,Bretagne
+174,174,TA Rennes,St-Brieuc 2,4 - 2,25,Bretagne
+175,175,Brest (2),Locminé,3 - 5,26,Bretagne
+176,176,Lannion,Dinan/Lehon,0 - 2,26,Bretagne
+177,177,Pontivy,Pontivy,1 - 0,26,Bretagne
+178,178,Saint-P. Milizac,Guipry/Messac,4 - 0,26,Bretagne
+179,179,Stade Rennais 2,Plouzané,4 - 2,26,Bretagne
+180,180,St-Brieuc 2,Fougères,0 - 4,26,Bretagne
+181,181,Tregunc,TA Rennes,0 - 3,26,Bretagne
+0,0,Les Ulis,Aubervilliers,0 - 2,1,Paris IDF
+1,1,Paris FC 2,Les Mureaux,1 - 0,1,Paris IDF
+2,2,Drancy,Colombes,2 - 0,1,Paris IDF
+3,3,Ivry,Créteil 2,2 - 1,1,Paris IDF
+4,4,Linas-Monthléry,Paris SG 2,2 - 3,1,Paris IDF
+5,5,Mantois 78,Blanc-Mesnil,0 - 1,1,Paris IDF
+6,6,Brétigny,Meaux,1 - 1,1,Paris IDF
+7,7,Colombes,Les Ulis,2 - 3,2,Paris IDF
+8,8,Aubervilliers,Paris FC 2,0 - 0,2,Paris IDF
+9,9,Créteil 2,Blanc-Mesnil,1 - 1,2,Paris IDF
+10,10,Ivry,Brétigny,2 - 3,2,Paris IDF
+11,11,Meaux,Drancy,2 - 2,2,Paris IDF
+12,12,Paris SG 2,Mantois 78,1 - 1,2,Paris IDF
+13,13,Les Mureaux,Linas-Monthléry,3 - 2,2,Paris IDF
+14,14,Les Ulis,Meaux,0 - 1,3,Paris IDF
+15,15,Paris FC 2,Colombes,1 - 2,3,Paris IDF
+16,16,Blanc-Mesnil,Paris SG 2,3 - 1,3,Paris IDF
+17,17,Drancy,Ivry,1 - 2,3,Paris IDF
+18,18,Linas-Monthléry,Aubervilliers,2 - 0,3,Paris IDF
+19,19,Mantois 78,Les Mureaux,1 - 0,3,Paris IDF
+20,20,Brétigny,Créteil 2,1 - 0,3,Paris IDF
+21,21,Colombes,Linas-Monthléry,3 - 1,4,Paris IDF
+22,22,Aubervilliers,Mantois 78,1 - 1,4,Paris IDF
+23,23,Créteil 2,Paris SG 2,0 - 1,4,Paris IDF
+24,24,Ivry,Les Ulis,3 - 0,4,Paris IDF
+25,25,Meaux,Paris FC 2,0 - 1,4,Paris IDF
+26,26,Brétigny,Drancy,2 - 1,4,Paris IDF
+27,27,Les Mureaux,Blanc-Mesnil,2 - 0,4,Paris IDF
+28,28,Les Ulis,Brétigny,1 - 3,5,Paris IDF
+29,29,Paris FC 2,Ivry,2 - 3,5,Paris IDF
+30,30,Blanc-Mesnil,Aubervilliers,0 - 0,5,Paris IDF
+31,31,Drancy,Créteil 2,0 - 0,5,Paris IDF
+32,32,Linas-Monthléry,Meaux,2 - 0,5,Paris IDF
+33,33,Mantois 78,Colombes,2 - 6,5,Paris IDF
+34,34,Paris SG 2,Les Mureaux,2 - 0,5,Paris IDF
+35,35,Aubervilliers,Paris SG 2,0 - 2,6,Paris IDF
+36,36,Créteil 2,Les Mureaux,4 - 0,6,Paris IDF
+37,37,Drancy,Les Ulis,3 - 0,6,Paris IDF
+38,38,Ivry,Linas-Monthléry,1 - 2,6,Paris IDF
+39,39,Meaux,Mantois 78,1 - 1,6,Paris IDF
+40,40,Brétigny,Paris FC 2,0 - 1,6,Paris IDF
+41,41,Colombes,Blanc-Mesnil,4 - 1,6,Paris IDF
+42,42,Les Ulis,Créteil 2,2 - 0,7,Paris IDF
+43,43,Paris FC 2,Drancy,1 - 1,7,Paris IDF
+44,44,Blanc-Mesnil,Meaux,0 - 0,7,Paris IDF
+45,45,Linas-Monthléry,Brétigny,2 - 3,7,Paris IDF
+46,46,Mantois 78,Ivry,2 - 2,7,Paris IDF
+47,47,Paris SG 2,Colombes,1 - 2,7,Paris IDF
+48,48,Les Mureaux,Aubervilliers,0 - 1,7,Paris IDF
+49,49,Colombes,Les Mureaux,1 - 0,8,Paris IDF
+50,50,Les Ulis,Paris FC 2,1 - 2,8,Paris IDF
+51,51,Créteil 2,Aubervilliers,2 - 2,8,Paris IDF
+52,52,Drancy,Linas-Monthléry,0 - 1,8,Paris IDF
+53,53,Ivry,Blanc-Mesnil,1 - 1,8,Paris IDF
+54,54,Meaux,Paris SG 2,0 - 2,8,Paris IDF
+55,55,Brétigny,Mantois 78,1 - 1,8,Paris IDF
+56,56,Aubervilliers,Colombes,1 - 1,9,Paris IDF
+57,57,Paris FC 2,Créteil 2,2 - 2,9,Paris IDF
+58,58,Blanc-Mesnil,Brétigny,4 - 0,9,Paris IDF
+59,59,Linas-Monthléry,Les Ulis,2 - 1,9,Paris IDF
+60,60,Mantois 78,Drancy,3 - 2,9,Paris IDF
+61,61,Les Mureaux,Meaux,2 - 2,9,Paris IDF
+62,62,Paris SG 2,Ivry,3 - 2,9,Paris IDF
+63,63,Paris FC 2,Linas-Monthléry,1 - 2,10,Paris IDF
+64,64,Créteil 2,Colombes,1 - 2,10,Paris IDF
+65,65,Drancy,Blanc-Mesnil,0 - 2,10,Paris IDF
+66,66,Ivry,Les Mureaux,0 - 1,10,Paris IDF
+67,67,Meaux,Aubervilliers,1 - 1,10,Paris IDF
+68,68,Brétigny,Paris SG 2,4 - 3,10,Paris IDF
+69,69,Les Ulis,Mantois 78,2 - 1,10,Paris IDF
+70,70,Colombes,Meaux,1 - 0,11,Paris IDF
+71,71,Aubervilliers,Ivry,1 - 1,11,Paris IDF
+72,72,Blanc-Mesnil,Les Ulis,3 - 2,11,Paris IDF
+73,73,Linas-Monthléry,Créteil 2,1 - 0,11,Paris IDF
+74,74,Mantois 78,Paris FC 2,0 - 1,11,Paris IDF
+75,75,Paris SG 2,Drancy,2 - 0,11,Paris IDF
+76,76,Les Mureaux,Brétigny,2 - 1,11,Paris IDF
+77,77,Les Ulis,Paris SG 2,1 - 1,12,Paris IDF
+78,78,Paris FC 2,Blanc-Mesnil,1 - 1,12,Paris IDF
+79,79,Créteil 2,Meaux,2 - 1,12,Paris IDF
+80,80,Drancy,Les Mureaux,0 - 0,12,Paris IDF
+81,81,Ivry,Colombes,2 - 5,12,Paris IDF
+82,82,Linas-Monthléry,Mantois 78,1 - 1,12,Paris IDF
+83,83,Brétigny,Aubervilliers,2 - 0,12,Paris IDF
+84,84,Colombes,Brétigny,2 - 2,13,Paris IDF
+85,85,Aubervilliers,Drancy,3 - 0,13,Paris IDF
+86,86,Blanc-Mesnil,Linas-Monthléry,2 - 1,13,Paris IDF
+87,87,Créteil 2,Mantois 78,1 - 1,13,Paris IDF
+88,88,Meaux,Ivry,0 - 3,13,Paris IDF
+89,89,Paris SG 2,Paris FC 2,2 - 0,13,Paris IDF
+90,90,Les Mureaux,Les Ulis,1 - 1,13,Paris IDF
+91,91,Les Ulis,Colombes,0 - 2,14,Paris IDF
+92,92,Paris FC 2,Aubervilliers,6 - 2,14,Paris IDF
+93,93,Blanc-Mesnil,Créteil 2,2 - 0,14,Paris IDF
+94,94,Drancy,Meaux,1 - 0,14,Paris IDF
+95,95,Linas-Monthléry,Les Mureaux,0 - 3,14,Paris IDF
+96,96,Mantois 78,Paris SG 2,0 - 0,14,Paris IDF
+97,97,Brétigny,Ivry,1 - 1,14,Paris IDF
+98,98,Colombes,Paris FC 2,0 - 0,15,Paris IDF
+99,99,Aubervilliers,Linas-Monthléry,2 - 1,15,Paris IDF
+100,100,Créteil 2,Brétigny,1 - 1,15,Paris IDF
+101,101,Ivry,Drancy,1 - 5,15,Paris IDF
+102,102,Meaux,Les Ulis,2 - 0,15,Paris IDF
+103,103,Paris SG 2,Blanc-Mesnil,2 - 2,15,Paris IDF
+104,104,Les Mureaux,Mantois 78,0 - 0,15,Paris IDF
+105,105,Les Ulis,Ivry,3 - 1,16,Paris IDF
+106,106,Paris FC 2,Meaux,3 - 0,16,Paris IDF
+107,107,Blanc-Mesnil,Les Mureaux,2 - 0,16,Paris IDF
+108,108,Drancy,Brétigny,3 - 1,16,Paris IDF
+109,109,Linas-Monthléry,Colombes,0 - 1,16,Paris IDF
+110,110,Mantois 78,Aubervilliers,0 - 2,16,Paris IDF
+111,111,Paris SG 2,Créteil 2,1 - 2,16,Paris IDF
+112,112,Colombes,Mantois 78,1 - 0,17,Paris IDF
+113,113,Aubervilliers,Blanc-Mesnil,0 - 0,17,Paris IDF
+114,114,Créteil 2,Drancy,0 - 0,17,Paris IDF
+115,115,Ivry,Paris FC 2,1 - 2,17,Paris IDF
+116,116,Meaux,Linas-Monthléry,0 - 0,17,Paris IDF
+117,117,Brétigny,Les Ulis,0 - 1,17,Paris IDF
+118,118,Les Mureaux,Paris SG 2,3 - 1,17,Paris IDF
+119,119,Les Ulis,Drancy,0 - 3,18,Paris IDF
+120,120,Paris FC 2,Brétigny,3 - 2,18,Paris IDF
+121,121,Blanc-Mesnil,Colombes,0 - 3,18,Paris IDF
+122,122,Linas-Monthléry,Ivry,2 - 1,18,Paris IDF
+123,123,Mantois 78,Meaux,0 - 0,18,Paris IDF
+124,124,Paris SG 2,Aubervilliers,0 - 1,18,Paris IDF
+125,125,Les Mureaux,Créteil 2,0 - 1,18,Paris IDF
+126,126,Colombes,Paris SG 2,5 - 0,19,Paris IDF
+127,127,Aubervilliers,Les Mureaux,3 - 0,19,Paris IDF
+128,128,Créteil 2,Les Ulis,2 - 0,19,Paris IDF
+129,129,Drancy,Paris FC 2,1 - 0,19,Paris IDF
+130,130,Ivry,Mantois 78,0 - 0,19,Paris IDF
+131,131,Meaux,Blanc-Mesnil,0 - 2,19,Paris IDF
+132,132,Brétigny,Linas-Monthléry,0 - 0,19,Paris IDF
+133,133,Paris FC 2,Les Ulis,3 - 1,20,Paris IDF
+134,134,Aubervilliers,Créteil 2,2 - 1,20,Paris IDF
+135,135,Blanc-Mesnil,Ivry,0 - 2,20,Paris IDF
+136,136,Linas-Monthléry,Drancy,1 - 1,20,Paris IDF
+137,137,Mantois 78,Brétigny,0 - 1,20,Paris IDF
+138,138,Les Mureaux,Colombes,0 - 2,20,Paris IDF
+139,139,Paris SG 2,Meaux,1 - 1,20,Paris IDF
+140,140,Colombes,Aubervilliers,5 - 1,21,Paris IDF
+141,141,Créteil 2,Paris FC 2,0 - 2,21,Paris IDF
+142,142,Drancy,Mantois 78,0 - 3,21,Paris IDF
+143,143,Ivry,Paris SG 2,0 - 0,21,Paris IDF
+144,144,Meaux,Les Mureaux,1 - 0,21,Paris IDF
+145,145,Brétigny,Blanc-Mesnil,3 - 1,21,Paris IDF
+146,146,Les Ulis,Linas-Monthléry,0 - 1,21,Paris IDF
+147,147,Colombes,Créteil 2,2 - 1,22,Paris IDF
+148,148,Aubervilliers,Meaux,1 - 0,22,Paris IDF
+149,149,Blanc-Mesnil,Drancy,2 - 0,22,Paris IDF
+150,150,Linas-Monthléry,Paris FC 2,3 - 3,22,Paris IDF
+151,151,Mantois 78,Les Ulis,0 - 1,22,Paris IDF
+152,152,Paris SG 2,Brétigny,1 - 2,22,Paris IDF
+153,153,Les Mureaux,Ivry,3 - 2,22,Paris IDF
+154,154,Les Ulis,Blanc-Mesnil,1 - 1,23,Paris IDF
+155,155,Paris FC 2,Mantois 78,3 - 2,23,Paris IDF
+156,156,Créteil 2,Linas-Monthléry,0 - 1,23,Paris IDF
+157,157,Drancy,Paris SG 2,2 - 0,23,Paris IDF
+158,158,Ivry,Aubervilliers,1 - 3,23,Paris IDF
+159,159,Meaux,Colombes,0 - 5,23,Paris IDF
+160,160,Brétigny,Les Mureaux,1 - 1,23,Paris IDF
+161,161,Colombes,Ivry,0 - 1,24,Paris IDF
+162,162,Aubervilliers,Brétigny,1 - 1,24,Paris IDF
+163,163,Blanc-Mesnil,Paris FC 2,2 - 3,24,Paris IDF
+164,164,Mantois 78,Linas-Monthléry,4 - 1,24,Paris IDF
+165,165,Meaux,Créteil 2,1 - 2,24,Paris IDF
+166,166,Paris SG 2,Les Ulis,1 - 0,24,Paris IDF
+167,167,Les Mureaux,Drancy,2 - 0,24,Paris IDF
+168,168,Brétigny,Colombes,0 - 5,25,Paris IDF
+169,169,Drancy,Aubervilliers,3 - 0,25,Paris IDF
+170,170,Ivry,Meaux,0 - 1,25,Paris IDF
+171,171,Les Ulis,Les Mureaux,2 - 1,25,Paris IDF
+172,172,Linas-Monthléry,Blanc-Mesnil,2 - 2,25,Paris IDF
+173,173,Mantois 78,Créteil 2,1 - 0,25,Paris IDF
+174,174,Paris FC 2,Paris SG 2,1 - 1,25,Paris IDF
+175,175,Aubervilliers,Les Ulis,1 - 2,26,Paris IDF
+176,176,Blanc-Mesnil,Mantois 78,2 - 1,26,Paris IDF
+177,177,Créteil 2,Ivry,2 - 2,26,Paris IDF
+178,178,Les Mureaux,Paris FC 2,2 - 4,26,Paris IDF
+179,179,Meaux,Brétigny,1 - 1,26,Paris IDF
+180,180,Paris SG 2,Linas-Monthléry,3 - 2,26,Paris IDF
+181,181,Colombes,Drancy,0 - 0,26,Paris IDF
+0,0,Chambéry,Bourgoin-Jailleu,0 - 3,1,Auvergne Rh Alpes
+1,1,Clermont Foot (2),Aurillac Fc2a,2 - 2,1,Auvergne Rh Alpes
+2,2,Limonest,Lyon Duchère 2,1 - 2,1,Auvergne Rh Alpes
+3,3,Montluçon,Moulins,1 - 0,1,Auvergne Rh Alpes
+4,4,Saint-Étienne (2),Velay FC,1 - 0,1,Auvergne Rh Alpes
+5,5,Thonon Evian,Ain Sud Foot,3 - 0,1,Auvergne Rh Alpes
+6,6,Vaulx-en-Velin,Haut lyonnais,0 - 2,1,Auvergne Rh Alpes
+7,7,Lyon Duchère 2,Clermont Foot (2),1 - 3,2,Auvergne Rh Alpes
+8,8,Haut lyonnais,Limonest,1 - 0,2,Auvergne Rh Alpes
+9,9,Bourgoin-Jailleu,Saint-Étienne (2),2 - 0,2,Auvergne Rh Alpes
+10,10,Velay FC,Montluçon,2 - 4,2,Auvergne Rh Alpes
+11,11,Ain Sud Foot,Aurillac Fc2a,2 - 2,2,Auvergne Rh Alpes
+12,12,Moulins,Vaulx-en-Velin,0 - 3,2,Auvergne Rh Alpes
+13,13,Thonon Evian,Chambéry,3 - 2,2,Auvergne Rh Alpes
+14,14,Aurillac Fc2a,Lyon Duchère 2,1 - 2,3,Auvergne Rh Alpes
+15,15,Clermont Foot (2),Haut lyonnais,1 - 1,3,Auvergne Rh Alpes
+16,16,Montluçon,Bourgoin-Jailleu,3 - 1,3,Auvergne Rh Alpes
+17,17,Vaulx-en-Velin,Velay FC,3 - 0,3,Auvergne Rh Alpes
+18,18,Limonest,Moulins,4 - 0,3,Auvergne Rh Alpes
+19,19,Chambéry,Ain Sud Foot,3 - 0,3,Auvergne Rh Alpes
+20,20,Saint-Étienne (2),Thonon Evian,3 - 3,3,Auvergne Rh Alpes
+21,21,Haut lyonnais,Aurillac Fc2a,4 - 2,4,Auvergne Rh Alpes
+22,22,Velay FC,Limonest,2 - 0,4,Auvergne Rh Alpes
+23,23,Bourgoin-Jailleu,Vaulx-en-Velin,3 - 0,4,Auvergne Rh Alpes
+24,24,Ain Sud Foot,Lyon Duchère 2,0 - 0,4,Auvergne Rh Alpes
+25,25,Chambéry,Saint-Étienne (2),1 - 1,4,Auvergne Rh Alpes
+26,26,Moulins,Clermont Foot (2),1 - 4,4,Auvergne Rh Alpes
+27,27,Thonon Evian,Montluçon,0 - 0,4,Auvergne Rh Alpes
+28,28,Aurillac Fc2a,Moulins,4 - 1,5,Auvergne Rh Alpes
+29,29,Clermont Foot (2),Velay FC,3 - 1,5,Auvergne Rh Alpes
+30,30,Limonest,Bourgoin-Jailleu,0 - 0,5,Auvergne Rh Alpes
+31,31,Lyon Duchère 2,Haut lyonnais,1 - 3,5,Auvergne Rh Alpes
+32,32,Montluçon,Chambéry,2 - 2,5,Auvergne Rh Alpes
+33,33,Vaulx-en-Velin,Thonon Evian,0 - 4,5,Auvergne Rh Alpes
+34,34,Saint-Étienne (2),Ain Sud Foot,2 - 0,5,Auvergne Rh Alpes
+35,35,Saint-Étienne (2),Montluçon,2 - 0,6,Auvergne Rh Alpes
+36,36,Velay FC,Aurillac Fc2a,0 - 2,6,Auvergne Rh Alpes
+37,37,Bourgoin-Jailleu,Clermont Foot (2),2 - 2,6,Auvergne Rh Alpes
+38,38,Ain Sud Foot,Haut lyonnais,2 - 0,6,Auvergne Rh Alpes
+39,39,Chambéry,Vaulx-en-Velin,3 - 1,6,Auvergne Rh Alpes
+40,40,Moulins,Lyon Duchère 2,0 - 0,6,Auvergne Rh Alpes
+41,41,Thonon Evian,Limonest,2 - 3,6,Auvergne Rh Alpes
+42,42,Haut lyonnais,Moulins,4 - 1,7,Auvergne Rh Alpes
+43,43,Vaulx-en-Velin,Saint-Étienne (2),1 - 2,7,Auvergne Rh Alpes
+44,44,Lyon Duchère 2,Velay FC,1 - 0,7,Auvergne Rh Alpes
+45,45,Aurillac Fc2a,Bourgoin-Jailleu,2 - 2,7,Auvergne Rh Alpes
+46,46,Clermont Foot (2),Thonon Evian,1 - 3,7,Auvergne Rh Alpes
+47,47,Limonest,Chambéry,2 - 0,7,Auvergne Rh Alpes
+48,48,Montluçon,Ain Sud Foot,0 - 4,7,Auvergne Rh Alpes
+49,49,Thonon Evian,Aurillac Fc2a,3 - 3,8,Auvergne Rh Alpes
+50,50,Ain Sud Foot,Moulins,2 - 2,8,Auvergne Rh Alpes
+51,51,Montluçon,Vaulx-en-Velin,0 - 1,8,Auvergne Rh Alpes
+52,52,Saint-Étienne (2),Limonest,2 - 1,8,Auvergne Rh Alpes
+53,53,Chambéry,Clermont Foot (2),4 - 0,8,Auvergne Rh Alpes
+54,54,Bourgoin-Jailleu,Lyon Duchère 2,3 - 0,8,Auvergne Rh Alpes
+55,55,Haut lyonnais,Velay FC,2 - 1,8,Auvergne Rh Alpes
+56,56,Haut lyonnais,Bourgoin-Jailleu,2 - 3,9,Auvergne Rh Alpes
+57,57,Clermont Foot (2),Saint-Étienne (2),0 - 1,9,Auvergne Rh Alpes
+58,58,Limonest,Montluçon,0 - 0,9,Auvergne Rh Alpes
+59,59,Aurillac Fc2a,Chambéry,0 - 0,9,Auvergne Rh Alpes
+60,60,Lyon Duchère 2,Thonon Evian,0 - 2,9,Auvergne Rh Alpes
+61,61,Vaulx-en-Velin,Ain Sud Foot,1 - 4,9,Auvergne Rh Alpes
+62,62,Moulins,Velay FC,3 - 0,9,Auvergne Rh Alpes
+63,63,Ain Sud Foot,Velay FC,2 - 0,10,Auvergne Rh Alpes
+64,64,Chambéry,Lyon Duchère 2,2 - 1,10,Auvergne Rh Alpes
+65,65,Montluçon,Clermont Foot (2),4 - 2,10,Auvergne Rh Alpes
+66,66,Vaulx-en-Velin,Limonest,1 - 1,10,Auvergne Rh Alpes
+67,67,Saint-Étienne (2),Aurillac Fc2a,4 - 0,10,Auvergne Rh Alpes
+68,68,Thonon Evian,Haut lyonnais,2 - 1,10,Auvergne Rh Alpes
+69,69,Bourgoin-Jailleu,Moulins,2 - 1,10,Auvergne Rh Alpes
+70,70,Haut lyonnais,Chambéry,1 - 0,11,Auvergne Rh Alpes
+71,71,Clermont Foot (2),Vaulx-en-Velin,0 - 0,11,Auvergne Rh Alpes
+72,72,Limonest,Ain Sud Foot,0 - 2,11,Auvergne Rh Alpes
+73,73,Lyon Duchère 2,Saint-Étienne (2),1 - 1,11,Auvergne Rh Alpes
+74,74,Moulins,Thonon Evian,0 - 5,11,Auvergne Rh Alpes
+75,75,Aurillac Fc2a,Montluçon,2 - 0,11,Auvergne Rh Alpes
+76,76,Bourgoin-Jailleu,Velay FC,2 - 2,11,Auvergne Rh Alpes
+77,77,Limonest,Clermont Foot (2),2 - 4,12,Auvergne Rh Alpes
+78,78,Thonon Evian,Velay FC,3 - 0,12,Auvergne Rh Alpes
+79,79,Ain Sud Foot,Bourgoin-Jailleu,0 - 0,12,Auvergne Rh Alpes
+80,80,Chambéry,Moulins,3 - 0,12,Auvergne Rh Alpes
+81,81,Montluçon,Lyon Duchère 2,3 - 1,12,Auvergne Rh Alpes
+82,82,Vaulx-en-Velin,Aurillac Fc2a,2 - 0,12,Auvergne Rh Alpes
+83,83,Saint-Étienne (2),Haut lyonnais,1 - 0,12,Auvergne Rh Alpes
+84,84,Haut lyonnais,Montluçon,2 - 5,13,Auvergne Rh Alpes
+85,85,Bourgoin-Jailleu,Thonon Evian,0 - 3,13,Auvergne Rh Alpes
+86,86,Ain Sud Foot,Clermont Foot (2),2 - 0,13,Auvergne Rh Alpes
+87,87,Aurillac Fc2a,Limonest,2 - 1,13,Auvergne Rh Alpes
+88,88,Lyon Duchère 2,Vaulx-en-Velin,0 - 0,13,Auvergne Rh Alpes
+89,89,Moulins,Saint-Étienne (2),3 - 3,13,Auvergne Rh Alpes
+90,90,Velay FC,Chambéry,1 - 1,13,Auvergne Rh Alpes
+91,91,Limonest,Haut lyonnais,2 - 1,14,Auvergne Rh Alpes
+92,92,Clermont Foot (2),Lyon Duchère 2,2 - 1,14,Auvergne Rh Alpes
+93,93,Aurillac Fc2a,Ain Sud Foot,1 - 2,14,Auvergne Rh Alpes
+94,94,Chambéry,Thonon Evian,2 - 3,14,Auvergne Rh Alpes
+95,95,Montluçon,Velay FC,1 - 1,14,Auvergne Rh Alpes
+96,96,Vaulx-en-Velin,Moulins,5 - 0,14,Auvergne Rh Alpes
+97,97,Saint-Étienne (2),Bourgoin-Jailleu,1 - 3,14,Auvergne Rh Alpes
+98,98,Haut lyonnais,Clermont Foot (2),1 - 1,15,Auvergne Rh Alpes
+99,99,Velay FC,Vaulx-en-Velin,0 - 1,15,Auvergne Rh Alpes
+100,100,Bourgoin-Jailleu,Montluçon,2 - 0,15,Auvergne Rh Alpes
+101,101,Ain Sud Foot,Chambéry,1 - 0,15,Auvergne Rh Alpes
+102,102,Lyon Duchère 2,Aurillac Fc2a,5 - 1,15,Auvergne Rh Alpes
+103,103,Thonon Evian,Saint-Étienne (2),1 - 0,15,Auvergne Rh Alpes
+104,104,Moulins,Limonest,0 - 0,15,Auvergne Rh Alpes
+105,105,Limonest,Velay FC,3 - 1,16,Auvergne Rh Alpes
+106,106,Aurillac Fc2a,Haut lyonnais,2 - 3,16,Auvergne Rh Alpes
+107,107,Clermont Foot (2),Moulins,0 - 1,16,Auvergne Rh Alpes
+108,108,Lyon Duchère 2,Ain Sud Foot,0 - 0,16,Auvergne Rh Alpes
+109,109,Montluçon,Thonon Evian,0 - 0,16,Auvergne Rh Alpes
+110,110,Vaulx-en-Velin,Bourgoin-Jailleu,2 - 3,16,Auvergne Rh Alpes
+111,111,Saint-Étienne (2),Chambéry,0 - 2,16,Auvergne Rh Alpes
+112,112,Thonon Evian,Vaulx-en-Velin,2 - 2,17,Auvergne Rh Alpes
+113,113,Velay FC,Clermont Foot (2),1 - 0,17,Auvergne Rh Alpes
+114,114,Bourgoin-Jailleu,Limonest,1 - 1,17,Auvergne Rh Alpes
+115,115,Ain Sud Foot,Saint-Étienne (2),1 - 1,17,Auvergne Rh Alpes
+116,116,Chambéry,Montluçon,3 - 0,17,Auvergne Rh Alpes
+117,117,Moulins,Aurillac Fc2a,1 - 1,17,Auvergne Rh Alpes
+118,118,Haut lyonnais,Lyon Duchère 2,1 - 1,17,Auvergne Rh Alpes
+119,119,Haut lyonnais,Ain Sud Foot,1 - 0,18,Auvergne Rh Alpes
+120,120,Limonest,Thonon Evian,1 - 2,18,Auvergne Rh Alpes
+121,121,Aurillac Fc2a,Velay FC,0 - 1,18,Auvergne Rh Alpes
+122,122,Clermont Foot (2),Bourgoin-Jailleu,0 - 2,18,Auvergne Rh Alpes
+123,123,Lyon Duchère 2,Moulins,5 - 0,18,Auvergne Rh Alpes
+124,124,Montluçon,Saint-Étienne (2),1 - 2,18,Auvergne Rh Alpes
+125,125,Vaulx-en-Velin,Chambéry,1 - 0,18,Auvergne Rh Alpes
+126,126,Ain Sud Foot,Montluçon,2 - 0,19,Auvergne Rh Alpes
+127,127,Chambéry,Limonest,4 - 1,19,Auvergne Rh Alpes
+128,128,Moulins,Haut lyonnais,2 - 3,19,Auvergne Rh Alpes
+129,129,Bourgoin-Jailleu,Aurillac Fc2a,2 - 1,19,Auvergne Rh Alpes
+130,130,Velay FC,Lyon Duchère 2,1 - 0,19,Auvergne Rh Alpes
+131,131,Thonon Evian,Clermont Foot (2),1 - 2,19,Auvergne Rh Alpes
+132,132,Saint-Étienne (2),Vaulx-en-Velin,5 - 1,19,Auvergne Rh Alpes
+133,133,Lyon Duchère 2,Bourgoin-Jailleu,1 - 0,20,Auvergne Rh Alpes
+134,134,Velay FC,Haut lyonnais,1 - 1,20,Auvergne Rh Alpes
+135,135,Aurillac Fc2a,Thonon Evian,1 - 2,20,Auvergne Rh Alpes
+136,136,Limonest,Saint-Étienne (2),1 - 1,20,Auvergne Rh Alpes
+137,137,Vaulx-en-Velin,Montluçon,2 - 2,20,Auvergne Rh Alpes
+138,138,Moulins,Ain Sud Foot,1 - 3,20,Auvergne Rh Alpes
+139,139,Clermont Foot (2),Chambéry,1 - 2,20,Auvergne Rh Alpes
+140,140,Bourgoin-Jailleu,Haut lyonnais,2 - 2,21,Auvergne Rh Alpes
+141,141,Velay FC,Moulins,2 - 1,21,Auvergne Rh Alpes
+142,142,Ain Sud Foot,Vaulx-en-Velin,0 - 0,21,Auvergne Rh Alpes
+143,143,Chambéry,Aurillac Fc2a,4 - 1,21,Auvergne Rh Alpes
+144,144,Montluçon,Limonest,0 - 4,21,Auvergne Rh Alpes
+145,145,Thonon Evian,Lyon Duchère 2,1 - 0,21,Auvergne Rh Alpes
+146,146,Saint-Étienne (2),Clermont Foot (2),1 - 0,21,Auvergne Rh Alpes
+147,147,Haut lyonnais,Thonon Evian,3 - 1,22,Auvergne Rh Alpes
+148,148,Velay FC,Ain Sud Foot,1 - 1,22,Auvergne Rh Alpes
+149,149,Aurillac Fc2a,Saint-Étienne (2),2 - 2,22,Auvergne Rh Alpes
+150,150,Clermont Foot (2),Montluçon,5 - 2,22,Auvergne Rh Alpes
+151,151,Limonest,Vaulx-en-Velin,2 - 2,22,Auvergne Rh Alpes
+152,152,Lyon Duchère 2,Chambéry,1 - 2,22,Auvergne Rh Alpes
+153,153,Moulins,Bourgoin-Jailleu,3 - 2,22,Auvergne Rh Alpes
+154,154,Saint-Étienne (2),Lyon Duchère 2,3 - 1,23,Auvergne Rh Alpes
+155,155,Velay FC,Bourgoin-Jailleu,1 - 2,23,Auvergne Rh Alpes
+156,156,Ain Sud Foot,Limonest,3 - 1,23,Auvergne Rh Alpes
+157,157,Chambéry,Haut lyonnais,5 - 2,23,Auvergne Rh Alpes
+158,158,Montluçon,Aurillac Fc2a,5 - 0,23,Auvergne Rh Alpes
+159,159,Thonon Evian,Moulins,5 - 0,23,Auvergne Rh Alpes
+160,160,Vaulx-en-Velin,Clermont Foot (2),7 - 2,23,Auvergne Rh Alpes
+161,161,Bourgoin-Jailleu,Ain Sud Foot,1 - 2,24,Auvergne Rh Alpes
+162,162,Haut lyonnais,Saint-Étienne (2),0 - 0,24,Auvergne Rh Alpes
+163,163,Clermont Foot (2),Limonest,2 - 3,24,Auvergne Rh Alpes
+164,164,Aurillac Fc2a,Vaulx-en-Velin,0 - 2,24,Auvergne Rh Alpes
+165,165,Lyon Duchère 2,Montluçon,0 - 0,24,Auvergne Rh Alpes
+166,166,Velay FC,Thonon Evian,0 - 0,24,Auvergne Rh Alpes
+167,167,Moulins,Chambéry,2 - 4,24,Auvergne Rh Alpes
+168,168,Chambéry,Velay FC,4 - 3,25,Auvergne Rh Alpes
+169,169,Clermont Foot (2),Ain Sud Foot,1 - 4,25,Auvergne Rh Alpes
+170,170,Limonest,Aurillac Fc2a,5 - 2,25,Auvergne Rh Alpes
+171,171,Montluçon,Haut lyonnais,0 - 0,25,Auvergne Rh Alpes
+172,172,Saint-Étienne (2),Moulins,5 - 0,25,Auvergne Rh Alpes
+173,173,Thonon Evian,Bourgoin-Jailleu,3 - 1,25,Auvergne Rh Alpes
+174,174,Vaulx-en-Velin,Lyon Duchère 2,0 - 1,25,Auvergne Rh Alpes
+175,175,Ain Sud Foot,Thonon Evian,1 - 2,26,Auvergne Rh Alpes
+176,176,Aurillac Fc2a,Clermont Foot (2),0 - 1,26,Auvergne Rh Alpes
+177,177,Bourgoin-Jailleu,Chambéry,0 - 4,26,Auvergne Rh Alpes
+178,178,Haut lyonnais,Vaulx-en-Velin,4 - 2,26,Auvergne Rh Alpes
+179,179,Lyon Duchère 2,Limonest,0 - 2,26,Auvergne Rh Alpes
+180,180,Moulins,Montluçon,2 - 3,26,Auvergne Rh Alpes
+181,181,Velay FC,Saint-Étienne (2),3 - 3,26,Auvergne Rh Alpes
